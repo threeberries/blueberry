@@ -90,7 +90,7 @@ def run_mode_auto_sync(page = None, total = None):
         if not hasOption:
             res = run_mode_sync_list_deep(item_id, 1)
             print('>>> res=', res)
-            exit()
+            # exit()
 
     #! do next page.
     if size > 0 and page < 100:
@@ -126,12 +126,13 @@ def run_mode_sync_list_deep(item_id, page = 1, total = 0):
         total = res['total']
         size = res['size']
 
-        # for each mall. call sync-pull.
-        for i, mall in enumerate(list):
-            sleep(2)
-            mid = mall['id']
-            res2 = pools.sync_pull_item(mid)
-            print('%03d:%02d> sync[%s] ='%(page, i, mid), res2)
+        # TODO - too heavy with this.
+        # # for each mall. call sync-pull.
+        # for i, mall in enumerate(list):
+        #     sleep(2)
+        #     mid = mall['id']
+        #     res2 = pools.sync_pull_item(mid)
+        #     print('%03d:%02d> sync[%s] ='%(page, i, mid), res2)
 
         # check eof.
         if (size < 20):
