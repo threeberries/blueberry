@@ -16,8 +16,13 @@ def main(param = None):
     print("hello main()....")
     parser = argparse.ArgumentParser()
     parser.add_argument('-m', '--mode', help='run mode(실행 모드: pools)', default='')
+    parser.add_argument('-p', '--page', type=int, help='start page number', default=1)
     args = vars(parser.parse_args())
+    
+    # parameters.
     mode = args['mode']
+    page = args['page'] if 'page' in args else 1
+
     # mode = mode if mode else 'down-mid'
     mode = mode if mode else 'auto-sync'
     print('! mode =', mode)
@@ -29,12 +34,12 @@ def main(param = None):
     elif mode == 'down-mid':
         ret = run_mode_down_mid()
     elif mode == 'auto-sync':
-        ret = run_mode_auto_sync()
+        ret = run_mode_auto_sync(page)
     else:
         ret = parser.print_help()
     
     #! print finally.
-    print('! ret =', ret);
+    print('! ret =', ret)
 
 
 # mode: pools - test pools API
@@ -69,6 +74,7 @@ def run_mode_down_mid(mid = 'NS5640996976'):
 def run_mode_auto_sync(page = None, total = None):
     page = 1 if page == None else page
     total = 0 if total == None else total
+    print('-----------------------------------------')
     print('run_mode_auto_sync(%d/%d)...'%(page, total))
     from tools import pools
     thiz = pools.get_items(page, 'ITEM')
@@ -93,7 +99,7 @@ def run_mode_auto_sync(page = None, total = None):
             # exit()
 
     #! do next page.
-    if size > 0 and page < 100:
+    if size > 0 and page < 1000:
         sleep(0.5)
         return run_mode_auto_sync(page + 1, total)
 
