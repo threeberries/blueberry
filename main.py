@@ -160,6 +160,7 @@ def run_mode_sync_list_deep(item_id, page = 1, total = 0, detail = False):
                 sleep(2)
                 mid = mall['id']
                 res2 = pools.sync_pull_item(mid)
+                #TODO - APiError 404.
                 _log('> [%03d:%02d:%02d] sync[%s] ='%(page, i, j, mid), res2)
 
         # check eof.
