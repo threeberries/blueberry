@@ -1,0 +1,631 @@
+id	type	name	cat	price	delivery	mall	image
+NS5640980426	ITEM	오뚜기 진라면 매운맛 120G	식품>가공식품>라면>봉지라면	340	2500	카리부	https://shopping-phinf.pstatic.net/main_5640980/5640980426.20150128150836.jpg?type=f300
+NS10086034421	MALL	진라면 매운맛40개/진라면/라면/신라면/열라면/스낵면	식품>가공식품>라면>봉지라면	18000	2500	11번가	https://shopping-phinf.pstatic.net/main_1008603/10086034421.1.jpg
+NS10086078656	MALL	진라면 매운맛 5개/진라면/라면/신라면/열라면/스낵면	식품>가공식품>라면>봉지라면	2780	2500	11번가	https://shopping-phinf.pstatic.net/main_1008607/10086078656.jpg
+NS10090024244	MALL	진라면(매운맛)120gx5/오뚜기	식품>가공식품>라면>봉지라면	2540	2500	11번가	https://shopping-phinf.pstatic.net/main_1009002/10090024244.1.jpg
+NS10122772959	MALL	오뚜기 진라면 플러스 매운맛/순한맛 120G X 30개/ 코스트코	식품>가공식품>라면>봉지라면	12740	2500	11번가	https://shopping-phinf.pstatic.net/main_1012277/10122772959.4.jpg
+NS10145376909	MALL	오뚜기 진라면 매운맛 (120G)	식품>가공식품>라면>봉지라면	690	2500	롯데슈퍼	https://shopping-phinf.pstatic.net/main_1014537/10145376909.jpg
+NS10157925218	MALL	오뚜기 진라면 매운맛 120gx20입 1박스 봉지라면	식품>가공식품>라면>봉지라면	12980	0	코스트	https://shopping-phinf.pstatic.net/main_1015792/10157925218.1.jpg
+NS10161742787	MALL	오뚜기진라면매운맛 120gx20입 1박스 봉지라면	식품>가공식품>라면>봉지라면	11690	0	11번가	https://shopping-phinf.pstatic.net/main_1016174/10161742787.jpg
+NS10171091052	MALL	[다이소몰(장보고식자재마트)] 진라면(매운맛)120gx5/오뚜기	식품>가공식품>라면>봉지라면	2820	2500	보리보리	https://shopping-phinf.pstatic.net/main_1017109/10171091052.jpg
+NS10174479261	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	32280	2500	11번가	https://shopping-phinf.pstatic.net/main_1017447/10174479261.jpg
+NS10174495893	MALL	오뚜기 오뚜기 진라면plus매운맛 120gx30개/봉지라면	식품>가공식품>라면>봉지라면	16900	2500	옥션	https://shopping-phinf.pstatic.net/main_1017449/10174495893.1.jpg
+NS10174520148	MALL	오뚜기 진라면plus매운맛 120gx30개/봉지라면	식품>가공식품>라면>봉지라면	16900	2500	G마켓	https://shopping-phinf.pstatic.net/main_1017452/10174520148.1.jpg
+NS10174620062	MALL	오뚜기 진라면plus매운맛 120gx30개/봉지라면	식품>가공식품>라면>봉지라면	16900	2500	11번가	https://shopping-phinf.pstatic.net/main_1017462/10174620062.1.jpg
+NS10201884607	MALL	농심 농심 새우탕 컵 67g x 30개	식품>가공식품>라면>봉지라면	29400	2500	G마켓	https://shopping-phinf.pstatic.net/main_1020188/10201884607.1.jpg
+NS10203123006	MALL	오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	500	2500	홈스퀘어	https://shopping-phinf.pstatic.net/main_1020312/10203123006.jpg
+NS10217691503	MALL	오뚜기 진라면plus매운맛 120gx30개/봉지라면	식품>가공식품>라면>봉지라면	15040	2500	인터파크	https://shopping-phinf.pstatic.net/main_1021769/10217691503.jpg
+NS10219176213	MALL	오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	430	2500	11번가	https://shopping-phinf.pstatic.net/main_1021917/10219176213.jpg
+NS10228791572	MALL	농심 새우탕 컵 67g x 30개	식품>가공식품>라면>봉지라면	26150	2500	인터파크	https://shopping-phinf.pstatic.net/main_1022879/10228791572.1.jpg
+NS10232628035	MALL	오뚜기 오뚜기 진라면 매운맛 20개입 박스	식품>가공식품>라면>봉지라면	9230	2500	옥션	https://shopping-phinf.pstatic.net/main_1023262/10232628035.1.jpg
+NS10232634563	MALL	오뚜기 오뚜기 진라면 매운맛 20개입 박스	식품>가공식품>라면>봉지라면	9220	2500	G마켓	https://shopping-phinf.pstatic.net/main_1023263/10232634563.1.jpg
+NS10238575176	MALL	[무료배송]오뚜기 진라면*40입 매운맛/순한맛	식품>가공식품>라면>봉지라면	18400	0	11번가	https://shopping-phinf.pstatic.net/main_1023857/10238575176.14.jpg
+NS10239785838	MALL	오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	470	2500	땡마트	https://shopping-phinf.pstatic.net/main_1023978/10239785838.1.jpg
+NS10246715930	MALL	[식품라면] 볶음 진짬뽕 125g*8개+진라면 매운맛 120g*10개	식품>가공식품>라면>봉지라면	14500	0	위메프	https://shopping-phinf.pstatic.net/main_1024671/10246715930.jpg
+NS10250584522	MALL	오뚜기 참깨라면 진라면120g x 40봉(멀티) 외12종	식품>가공식품>라면>봉지라면	16550	0	옥션	https://shopping-phinf.pstatic.net/main_1025058/10250584522.jpg
+NS10252134349	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	28070	2500	훈이몰	https://shopping-phinf.pstatic.net/main_1025213/10252134349.1.jpg
+NS10252620163	MALL	오뚜기 참깨라면 진라면120g x 40봉(멀티) 외12종	식품>가공식품>라면>봉지라면	19700	0	가자mall	https://shopping-phinf.pstatic.net/main_1025262/10252620163.1.jpg
+NS10252620360	MALL	오뚜기 참깨라면 진라면120g x 40봉(멀티) 외12종	식품>가공식품>라면>봉지라면	19700	0	이원몰	https://shopping-phinf.pstatic.net/main_1025262/10252620360.1.jpg
+NS10254389063	MALL	오뚜기 참깨라면 진라면120g x 40봉(멀티) 외12종	식품>가공식품>라면>봉지라면	16550	0	G마켓	https://shopping-phinf.pstatic.net/main_1025438/10254389063.jpg
+NS10254412767	MALL	오뚜기 참깨라면 진라면120g x 40봉(멀티) 외12종	식품>가공식품>라면>봉지라면	16550	0	G마켓	https://shopping-phinf.pstatic.net/main_1025441/10254412767.jpg
+NS10254450221	MALL	오뚜기 참깨라면 진라면120g x 40봉(멀티) 외12종	식품>가공식품>라면>봉지라면	16550	0	옥션	https://shopping-phinf.pstatic.net/main_1025445/10254450221.jpg
+NS10267489060	MALL	오뚜기진라면매운맛 120g - 햇반/오뚜기밥/참치/라면	식품>가공식품>라면>봉지라면	590	2500	티몬	https://shopping-phinf.pstatic.net/main_1026748/10267489060.jpg
+NS10268054507	MALL	박스/오뚜기진라면(매운맛)120gx5	식품>가공식품>라면>봉지라면	20850	2500	옥션	https://shopping-phinf.pstatic.net/main_1026805/10268054507.2.jpg
+NS10268123056	MALL	진라면(매운맛)120gx5/오뚜기	식품>가공식품>라면>봉지라면	2500	2500	G마켓	https://shopping-phinf.pstatic.net/main_1026812/10268123056.1.jpg
+NS10268359001	MALL	진라면(매운맛)120gx5/오뚜기	식품>가공식품>라면>봉지라면	2510	2500	옥션	https://shopping-phinf.pstatic.net/main_1026835/10268359001.2.jpg
+NS10299882762	MALL	[오뚜기] 03_ 진라면 매운맛 20봉^03_ 진라면 매운맛 20봉	식품>가공식품>라면>봉지라면	17250	0	위메프	https://shopping-phinf.pstatic.net/main_1029988/10299882762.jpg
+NS10300073122	MALL	[오뚜기] 02_ 진라면 순한맛 20봉^03_ 진라면 매운맛 20봉	식품>가공식품>라면>봉지라면	18600	0	위메프	https://shopping-phinf.pstatic.net/main_1030007/10300073122.jpg
+NS10304751794	MALL	오뚜기진라면매운맛 5개 120g - 식용유/카놀라유/즉석식품78종	식품>가공식품>라면>봉지라면	2610	2500	티몬	https://shopping-phinf.pstatic.net/main_1030475/10304751794.jpg
+NS10336028161	MALL	진라면 매운맛 멀티팩 1박스 120gX40 개입	식품>가공식품>라면>봉지라면	26470	2500	베스트셀링	https://shopping-phinf.pstatic.net/main_1033602/10336028161.1.jpg
+NS10343010094	MALL	진라면 매운맛 40봉봉지라면 박스라면 멀티팩	식품>가공식품>라면>봉지라면	26560	2500	11번가	https://shopping-phinf.pstatic.net/main_1034301/10343010094.jpg
+NS10343918028	MALL	진라면 매운맛 5봉 1팩봉지라면 박스라면 멀티팩	식품>가공식품>라면>봉지라면	4460	2500	11번가	https://shopping-phinf.pstatic.net/main_1034391/10343918028.jpg
+NS10389384710	MALL	[오뚜기] 진라면(매운맛) 40봉	식품>가공식품>라면>봉지라면	23700	0	다이소몰	https://shopping-phinf.pstatic.net/main_1038938/10389384710.jpg
+NS10389384716	MALL	[오뚜기] 진라면(매운맛) 20봉	식품>가공식품>라면>봉지라면	13400	0	다이소몰	https://shopping-phinf.pstatic.net/main_1038938/10389384716.jpg
+NS10389609441	MALL	박스/오뚜기진라면(매운맛)120gx5	식품>가공식품>라면>봉지라면	21160	2500	다이소몰	https://shopping-phinf.pstatic.net/main_1038960/10389609441.jpg
+NS10389609619	MALL	진라면(매운맛)120gx5/오뚜기	식품>가공식품>라면>봉지라면	2820	2500	다이소몰	https://shopping-phinf.pstatic.net/main_1038960/10389609619.jpg
+NS10402329486	MALL	[오뚜기] 부대찌개 라면 130g*8개+진라면 매운맛 120g*10개	식품>가공식품>라면>봉지라면	13180	0	위메프	https://shopping-phinf.pstatic.net/main_1040232/10402329486.jpg
+NS10429188056	MALL	(오뚜기) 진라면 매운맛 멀티팩 (120g x 5개) x8팩_총	식품>가공식품>라면>봉지라면	33080	2500	11번가	https://shopping-phinf.pstatic.net/main_1042918/10429188056.jpg
+NS10448632187	MALL	오뚜기 진라면 매운맛 멀티 120gx40개	식품>가공식품>라면>봉지라면	17200	2500	고래마트N	https://shopping-phinf.pstatic.net/main_1044863/10448632187.2.jpg
+NS10452617057	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개)x8팩 / 총40봉지	식품>가공식품>라면>봉지라면	22910	0	11번가	https://shopping-phinf.pstatic.net/main_1045261/10452617057.jpg
+NS10480974271	MALL	[오뚜기] 01_오뚜기 진라면 매운맛 40개	식품>가공식품>라면>봉지라면	23800	0	위메프	https://shopping-phinf.pstatic.net/main_1048097/10480974271.jpg
+NS10513277253	MALL	오뚜기 김치라면 40봉	식품>가공식품>라면>봉지라면	16990	0	11번가	https://shopping-phinf.pstatic.net/main_1051327/10513277253.3.jpg
+NS10532799047	MALL	오뚜기 오뚜기 진라면 멀티 매운맛 120gx40개 한박스	식품>가공식품>라면>봉지라면	15350	2500	옥션	https://shopping-phinf.pstatic.net/main_1053279/10532799047.jpg
+NS10532845982	MALL	진라면 오뚜기 진라면 멀티 매운맛 120gx40개 한박스	식품>가공식품>라면>봉지라면	15350	2500	G마켓	https://shopping-phinf.pstatic.net/main_1053284/10532845982.jpg
+NS10538094854	MALL	오뚜기/진라면 매운맛/순한맛/(120gx48)/(120gx40)입	식품>가공식품>라면>봉지라면	18270	0	11번가	https://shopping-phinf.pstatic.net/main_1053809/10538094854.1.jpg
+NS10539148677	MALL	오뚜기 진라면 매운맛 멀티 120gx40개 한박스	식품>가공식품>라면>봉지라면	17200	2500	고래마트	https://shopping-phinf.pstatic.net/main_1053914/10539148677.jpg
+NS10542589163	MALL	오뚜기진라면매운맛 5봉 120g - 인기라면/컵라면 골라담기!	식품>가공식품>라면>봉지라면	2360	2500	티몬	https://shopping-phinf.pstatic.net/main_1054258/10542589163.jpg
+NS10555253960	MALL	오뚜기 진라면 매운맛 멀티 120gx40개 한박스	식품>가공식품>라면>봉지라면	16600	2500	인터파크	https://shopping-phinf.pstatic.net/main_1055525/10555253960.jpg
+NS10569647651	MALL	진라면 매운맛 120gx40봉지	식품>가공식품>라면>봉지라면	16200	2500	낙타마트	https://shopping-phinf.pstatic.net/main_1056964/10569647651.3.jpg
+NS10573678122	MALL	[오뚜기] 049_오뚜기진라면매운맛 5봉	식품>가공식품>라면>봉지라면	2280	2500	위메프	https://shopping-phinf.pstatic.net/main_1057367/10573678122.jpg
+NS10577554379	MALL	[오뚜기] 오동통면 120g*10개+진라면 매운맛 120g*10개	식품>가공식품>라면>봉지라면	11000	0	위메프	https://shopping-phinf.pstatic.net/main_1057755/10577554379.jpg
+NS10578252504	MALL	[오뚜기] 001_B45_오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	480	2500	위메프	https://shopping-phinf.pstatic.net/main_1057825/10578252504.jpg
+NS10582583324	MALL	[오뚜기] 진라면 매운맛 120g*10+진짬뽕 130g*8	식품>가공식품>라면>봉지라면	13700	0	위메프	https://shopping-phinf.pstatic.net/main_1058258/10582583324.jpg
+NS10596949270	MALL	[오뚜기] 03_오뚜기 진라면매운맛5봉	식품>가공식품>라면>봉지라면	2890	3000	위메프	https://shopping-phinf.pstatic.net/main_1059694/10596949270.jpg
+NS10614270720	MALL	박스/오뚜기진라면(매운맛)120gx5	식품>가공식품>라면>봉지라면	21160	2500	다이소몰	https://shopping-phinf.pstatic.net/main_1061427/10614270720.1.jpg
+NS10614273466	MALL	진라면(매운맛)120gx5/오뚜기	식품>가공식품>라면>봉지라면	2820	2500	다이소몰	https://shopping-phinf.pstatic.net/main_1061427/10614273466.1.jpg
+NS10614757140	MALL	[오뚜기] 29_오뚜기진라면매운맛	식품>가공식품>라면>봉지라면	650	2500	위메프	https://shopping-phinf.pstatic.net/main_1061475/10614757140.jpg
+NS10618790002	MALL	[오뚜기] 오뚜기 진라면 매운맛 멀티팩 (120Gx5입) / 봉지면	식품>가공식품>라면>봉지라면	2620	3000	11번가	https://shopping-phinf.pstatic.net/main_1061879/10618790002.jpg
+NS10624267756	MALL	오뚜기 오뚜기 진라면 매운맛  멀티팩 (120gx5개입) 봉지면	식품>가공식품>라면>봉지라면	2170	3000	G마켓	https://shopping-phinf.pstatic.net/main_1062426/10624267756.jpg
+NS10624330200	MALL	오뚜기 오뚜기 진라면 매운맛 멀티팩 (120gx5개입) 봉지면	식품>가공식품>라면>봉지라면	2200	3000	옥션	https://shopping-phinf.pstatic.net/main_1062433/10624330200.jpg
+NS10636106651	MALL	(무료배송) 진라면 매운맛 멀티 5+1 기획팩 x 8입	식품>가공식품>라면>봉지라면	22380	0	11번가	https://shopping-phinf.pstatic.net/main_1063610/10636106651.2.jpg
+NS10636120620	MALL	오뚜기 (현대Hmall)(무료배송) 진라면 매운맛 멀티 5+1 기획팩 x 8입	식품>가공식품>라면>봉지라면	21390	0	G마켓	https://shopping-phinf.pstatic.net/main_1063612/10636120620.2.jpg
+NS10636209548	MALL	(무료배송) 진라면 매운맛 멀티 5+1 기획팩 x 8입	식품>가공식품>라면>봉지라면	21660	0	현대Hmall	https://shopping-phinf.pstatic.net/main_1063620/10636209548.1.jpg
+NS10646632660	MALL	진라면 덕용 매운맛 오뚜기 120gX30EA	식품>가공식품>라면>봉지라면	13820	2800	도매인쿡	https://shopping-phinf.pstatic.net/main_1064663/10646632660.1.jpg
+NS10650208244	MALL	[오뚜기] 0001_B45_오뚜기 진라면(매)120g X 20봉	식품>가공식품>라면>봉지라면	7570	2500	위메프	https://shopping-phinf.pstatic.net/main_1065020/10650208244.jpg
+NS10660183821	MALL	봉지라면(진라면매운)40개	식품>가공식품>라면>봉지라면	20200	2500	커피사랑	https://shopping-phinf.pstatic.net/main_1066018/10660183821.1.jpg
+NS10669590863	MALL	[오뚜기] 070_봉지)오뚜기진라면매운맛	식품>가공식품>라면>봉지라면	470	2500	위메프	https://shopping-phinf.pstatic.net/main_1066959/10669590863.jpg
+NS10672570383	MALL	오뚜기 진라면 매운맛 120g 40개입 박스/라면/용기면	식품>가공식품>라면>봉지라면	21030	0	옥션	https://shopping-phinf.pstatic.net/main_1067257/10672570383.3.jpg
+NS10672595019	MALL	오뚜기 진라면 매운맛 120g/라면/용기면/봉지면	식품>가공식품>라면>봉지라면	480	2500	옥션	https://shopping-phinf.pstatic.net/main_1067259/10672595019.2.jpg
+NS10700926905	MALL	오뚜기 봉지라면 진라면 매운맛 멀티팩 120g x 5개	식품>가공식품>라면>봉지라면	2410	2500	모핏코리아	https://shopping-phinf.pstatic.net/main_1070092/10700926905.2.jpg
+NS10700949605	MALL	오뚜기 오뚜기 봉지라면 진라면 매운맛  멀티팩 120g x 5개	식품>가공식품>라면>봉지라면	2260	2500	옥션	https://shopping-phinf.pstatic.net/main_1070094/10700949605.1.jpg
+NS10700963407	MALL	오뚜기 오뚜기 봉지라면 진라면 매운맛  멀티팩 120g x 5개	식품>가공식품>라면>봉지라면	2230	2500	G마켓	https://shopping-phinf.pstatic.net/main_1070096/10700963407.1.jpg
+NS10701031707	MALL	오뚜기 봉지라면 진라면 매운맛 멀티팩 120g x 5개	식품>가공식품>라면>봉지라면	2420	2500	11번가	https://shopping-phinf.pstatic.net/main_1070103/10701031707.1.jpg
+NS10702953789	MALL	[원하프]멀티)오뚜기 진라면 매운맛 120g * 5개입	식품>가공식품>라면>봉지라면	3030	3000	바이폴	https://shopping-phinf.pstatic.net/main_1070295/10702953789.jpg
+NS10705383493	MALL	오뚜기 진라면 매운맛 120g 40개 1BOX 가공식품/라면/봉지라면/오뚜기	식품>가공식품>라면>봉지라면	18400	2500	창현물류	https://shopping-phinf.pstatic.net/main_1070538/10705383493.1.jpg
+NS10721184379	MALL	( 특 가 )오뚜기 진라면매운맛1개/신라면/짜파게티	식품>가공식품>라면>봉지라면	450	2500	옥션	https://shopping-phinf.pstatic.net/main_1072118/10721184379.jpg
+NS10721217601	MALL	( 특 가 )오뚜기 진라면매운맛1개/신라면/짜파게티	식품>가공식품>라면>봉지라면	450	2500	G마켓	https://shopping-phinf.pstatic.net/main_1072121/10721217601.jpg
+NS10732149678	MALL	( 특 가 )오뚜기 진라면매운맛5개 /신라면/비빔면	식품>가공식품>라면>봉지라면	2290	2500	달달스토어	https://shopping-phinf.pstatic.net/main_1073214/10732149678.1.jpg
+NS10732255891	MALL	( 특 가 )오뚜기 진라면매운맛5개 /신라면/비빔면	식품>가공식품>라면>봉지라면	2290	2500	옥션	https://shopping-phinf.pstatic.net/main_1073225/10732255891.jpg
+NS10732289550	MALL	( 특 가 )오뚜기 진라면매운맛5개 /신라면/비빔면	식품>가공식품>라면>봉지라면	2290	2500	G마켓	https://shopping-phinf.pstatic.net/main_1073228/10732289550.jpg
+NS10736798827	MALL	( 특 가 )오뚜기 진라면매운맛10개 /신라면/비빔면	식품>가공식품>라면>봉지라면	4520	2500	달달스토어	https://shopping-phinf.pstatic.net/main_1073679/10736798827.1.jpg
+NS10736851513	MALL	( 특 가 )오뚜기 진라면매운맛10개 /신라면/비빔면	식품>가공식품>라면>봉지라면	4520	2500	옥션	https://shopping-phinf.pstatic.net/main_1073685/10736851513.jpg
+NS10736857901	MALL	( 특 가 )오뚜기 진라면매운맛10개 /신라면/비빔면	식품>가공식품>라면>봉지라면	4520	2500	G마켓	https://shopping-phinf.pstatic.net/main_1073685/10736857901.jpg
+NS10737389922	MALL	( 특 가 )오뚜기 진라면매운맛20개 /신라면/비빔면	식품>가공식품>라면>봉지라면	9050	2500	달달스토어	https://shopping-phinf.pstatic.net/main_1073738/10737389922.1.jpg
+NS10737477426	MALL	( 특 가 )오뚜기 진라면매운맛20개 /신라면/비빔면	식품>가공식품>라면>봉지라면	9050	2500	G마켓	https://shopping-phinf.pstatic.net/main_1073747/10737477426.jpg
+NS10737542441	MALL	( 특 가 )오뚜기 진라면매운맛20개 /신라면/비빔면	식품>가공식품>라면>봉지라면	9050	2500	옥션	https://shopping-phinf.pstatic.net/main_1073754/10737542441.jpg
+NS10737595816	MALL	( 특 가 )오뚜기 진라면매운맛20개 /신라면/비빔면	식품>가공식품>라면>봉지라면	8000	2500	11번가	https://shopping-phinf.pstatic.net/main_1073759/10737595816.jpg
+NS10752929292	MALL	( 특 가 )오뚜기 진라면매운맛40개 /신라면/비빔면	식품>가공식품>라면>봉지라면	18320	2500	달달스토어	https://shopping-phinf.pstatic.net/main_1075292/10752929292.1.jpg
+NS10753059466	MALL	( 특 가 )오뚜기 진라면매운맛40개 /신라면/비빔면	식품>가공식품>라면>봉지라면	18320	2500	옥션	https://shopping-phinf.pstatic.net/main_1075305/10753059466.jpg
+NS10753080723	MALL	( 특 가 )오뚜기 진라면매운맛40개 /신라면/비빔면	식품>가공식품>라면>봉지라면	18320	2500	G마켓	https://shopping-phinf.pstatic.net/main_1075308/10753080723.jpg
+NS10753238811	MALL	( 특 가 )오뚜기 진라면매운맛40개 /신라면/비빔면	식품>가공식품>라면>봉지라면	16600	2500	11번가	https://shopping-phinf.pstatic.net/main_1075323/10753238811.jpg
+NS10783678810	MALL	[오뚜기] 066_ 봉지)오뚜기 진라면 매운맛	식품>가공식품>라면>봉지라면	480	2500	위메프	https://shopping-phinf.pstatic.net/main_1078367/10783678810.jpg
+NS10795982004	MALL	[오뚜기] 04_[봉지] 진라면(매운) 20개	식품>가공식품>라면>봉지라면	9680	0	위메프	https://shopping-phinf.pstatic.net/main_1079598/10795982004.jpg
+NS10795982005	MALL	[오뚜기] 01_ 진라면(매운) 20개	식품>가공식품>라면>봉지라면	9240	0	위메프	https://shopping-phinf.pstatic.net/main_1079598/10795982005.jpg
+NS10807028151	MALL	오뚜기 낙타마트/오뚜기 진라면120g 40봉지(매운맛/순한맛)	식품>가공식품>라면>봉지라면	20300	0	G마켓	https://shopping-phinf.pstatic.net/main_1080702/10807028151.jpg
+NS10850051361	MALL	(가공)오뚜기 진라면(매)120g	식품>가공식품>라면>봉지라면	460	2500	옥션	https://shopping-phinf.pstatic.net/main_1085005/10850051361.2.jpg
+NS10856426952	MALL	(가공)오뚜기 진라면(매)120g	식품>가공식품>라면>봉지라면	500	2500	오브러쉬	https://shopping-phinf.pstatic.net/main_1085642/10856426952.3.jpg
+NS10860224384	MALL	[오뚜기] 08_[봉지] 진라면(매운) 20개	식품>가공식품>라면>봉지라면	10400	0	위메프	https://shopping-phinf.pstatic.net/main_1086022/10860224384.jpg
+NS10867854313	MALL	[당일발송][슈퍼마트]진라면 매운맛 120g*5입 - 비교할수록 쇼핑은 티몬	식품>가공식품>라면>봉지라면	2280	3000	티몬	https://shopping-phinf.pstatic.net/main_1086785/10867854313.2.jpg
+NS10892488713	MALL	[오뚜기] 진라면 매운맛 120g x 40봉/1박스/라면/국물	식품>가공식품>라면>봉지라면	20610	0	11번가	https://shopping-phinf.pstatic.net/main_1089248/10892488713.1.jpg
+NS10892553424	MALL	[오뚜기] 01_[봉지] 진라면(매운) 5개	식품>가공식품>라면>봉지라면	2160	2500	위메프	https://shopping-phinf.pstatic.net/main_1089255/10892553424.jpg
+NS10897810628	MALL	[가공식품] 신라면 120g+너구리 얼큰한맛 120g+진라면 매운맛 120g*10봉씩 _봉지라면/즉석/조리/간편	식품>가공식품>라면>봉지라면	19470	0	위메프	https://shopping-phinf.pstatic.net/main_1089781/10897810628.jpg
+NS10898323612	MALL	[오뚜기] 진라면 매운맛 봉지면 (40입) / 무료배송	식품>가공식품>라면>봉지라면	24030	0	11번가	https://shopping-phinf.pstatic.net/main_1089832/10898323612.jpg
+NS10898645261	MALL	오뚜기 (현대Hmall)[오뚜기] 진라면 매운맛 봉지면 (40입) / 무료배송	식품>가공식품>라면>봉지라면	23240	0	G마켓	https://shopping-phinf.pstatic.net/main_1089864/10898645261.jpg
+NS10908741938	MALL	(가공)오뚜기 진라면(매)120g	식품>가공식품>라면>봉지라면	490	2500	11번가	https://shopping-phinf.pstatic.net/main_1090874/10908741938.10.jpg
+NS10937360421	MALL	오뚜기 진라면 매운맛 멀티 120gx40봉지 라면한박스	식품>가공식품>라면>봉지라면	18500	2500	11번가	https://shopping-phinf.pstatic.net/main_1093736/10937360421.jpg
+NS10945977398	MALL	오뚜기 진라면 업소용 매운맛 120g X 30개 1박스	식품>가공식품>라면>봉지라면	14700	0	G9	https://shopping-phinf.pstatic.net/main_1094597/10945977398.1.jpg
+NS10945977458	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지 30개입 1박스	식품>가공식품>라면>봉지라면	18900	0	G9	https://shopping-phinf.pstatic.net/main_1094597/10945977458.1.jpg
+NS10945977459	MALL	[추가 10% 할인]오뚜기 오뚜기 진라면 매운맛 멀티팩(5개 X 8묶음 40개)1박스	식품>가공식품>라면>봉지라면	24000	0	G9	https://shopping-phinf.pstatic.net/main_1094597/10945977459.1.jpg
+NS10961081648	MALL	오뚜기 진라면 (매운맛) 120G x 20개	식품>가공식품>라면>봉지라면	10780	2500	ALLBARN	https://shopping-phinf.pstatic.net/main_1096108/10961081648.1.jpg
+NS10989809559	MALL	오뚜기 진라면매운맛(멀티팩) 120gX40개입(1박스) 오	식품>가공식품>라면>봉지라면	36210	0	G마켓	https://shopping-phinf.pstatic.net/main_1098980/10989809559.jpg
+NS10996645033	MALL	오뚜기 진라면매운맛(멀티팩) 120gX40개입(1박스) 오	식품>가공식품>라면>봉지라면	33360	2500	11번가	https://shopping-phinf.pstatic.net/main_1099664/10996645033.jpg
+NS10996738382	MALL	오뚜기 진라면매운맛(멀티팩) 120gX40개입(1박스) 오	식품>가공식품>라면>봉지라면	35590	0	11번가	https://shopping-phinf.pstatic.net/main_1099673/10996738382.1.jpg
+NS10999486967	MALL	[오뚜기] 09_[봉지] 진라면(매운) 30개	식품>가공식품>라면>봉지라면	14890	0	위메프	https://shopping-phinf.pstatic.net/main_1099948/10999486967.jpg
+NS11007781120	MALL	진라면 120gx40봉지(순한맛/매운맛) 봉지라면 진라면	식품>가공식품>라면>봉지라면	26960	2500	빅스타플러스	https://shopping-phinf.pstatic.net/main_1100778/11007781120.jpg
+NS11007843216	MALL	진라면 120gx40봉지(순한맛/매운맛) 봉지라면 진라면	식품>가공식품>라면>봉지라면	24800	2500	스타호스트	https://shopping-phinf.pstatic.net/main_1100784/11007843216.jpg
+NS11013516313	MALL	오뚜기 진라면 매운맛 1BOX (120gx40봉)	식품>가공식품>라면>봉지라면	24410	0	롯데아이몰	https://shopping-phinf.pstatic.net/main_1101351/11013516313.jpg
+NS11013581604	MALL	진라면 매운맛 1BOX (120gx40봉)/ 오뚜기	식품>가공식품>라면>봉지라면	24600	0	11번가	https://shopping-phinf.pstatic.net/main_1101358/11013581604.9.jpg
+NS11013606203	MALL	[오뚜기]진라면 매운맛 1BOX (120gx40봉)	식품>가공식품>라면>봉지라면	25400	0	롯데닷컴	https://shopping-phinf.pstatic.net/main_1101360/11013606203.4.jpg
+NS11017719387	MALL	[오뚜기] 진라면 매운맛 1BOX (120gx40봉)	식품>가공식품>라면>봉지라면	25900	0	홈앤쇼핑	https://shopping-phinf.pstatic.net/main_1101771/11017719387.jpg
+NS11029927763	MALL	[오뚜기] 09_진라면(매운) 20개+김치라면 20개	식품>가공식품>라면>봉지라면	18040	0	위메프	https://shopping-phinf.pstatic.net/main_1102992/11029927763.jpg
+NS11034278537	MALL	오뚜기 진라면 매운맛 1BOX (120gx40봉)/ 오뚜기	식품>가공식품>라면>봉지라면	24320	0	G마켓	https://shopping-phinf.pstatic.net/main_1103427/11034278537.1.jpg
+NS11038301477	MALL	오뚜기 진라면 매운맛 120g*20봉	식품>가공식품>라면>봉지라면	12400	0	K쇼핑	https://shopping-phinf.pstatic.net/main_1103830/11038301477.1.jpg
+NS11038301478	MALL	[오뚜기] 진라면(매운맛) 40봉	식품>가공식품>라면>봉지라면	21800	0	K쇼핑	https://shopping-phinf.pstatic.net/main_1103830/11038301478.1.jpg
+NS11039896993	MALL	오뚜기 진라면 매운맛 (봉지) 120g 1개	식품>가공식품>라면>봉지라면	480	2500	베스트몰OK	https://shopping-phinf.pstatic.net/main_1103989/11039896993.2.jpg
+NS11062676017	MALL	[오뚜기] 05_[봉지] 진라면(매운) 18개	식품>가공식품>라면>봉지라면	9900	0	위메프	https://shopping-phinf.pstatic.net/main_1106267/11062676017.jpg
+NS11069302723	MALL	[오뚜기] 001_B45_오뚜기진라면(매)120g X 10	식품>가공식품>라면>봉지라면	4670	2500	위메프	https://shopping-phinf.pstatic.net/main_1106930/11069302723.jpg
+NS11074040432	MALL	오뚜기 오뚜기 진라면120g X 40입/ 매운맛/ 순한맛/ 라면	식품>가공식품>라면>봉지라면	16750	2500	옥션	https://shopping-phinf.pstatic.net/main_1107404/11074040432.jpg
+NS11074044359	MALL	오뚜기 오뚜기 진라면120g X 40입/ 매운맛/ 순한맛/ 라면	식품>가공식품>라면>봉지라면	16750	2500	G마켓	https://shopping-phinf.pstatic.net/main_1107404/11074044359.1.jpg
+NS11079243846	MALL	진라면 매운맛 120gx40봉지x2박스	식품>가공식품>라면>봉지라면	34800	0	낙타마트	https://shopping-phinf.pstatic.net/main_1107924/11079243846.jpg
+NS11085645501	MALL	오뚜기 진라면매운맛 멀티팩 120gX40개입 1박스	식품>가공식품>라면>봉지라면	34780	2500	11번가	https://shopping-phinf.pstatic.net/main_1108564/11085645501.jpg
+NS11090059764	MALL	[오뚜기] 진라면 매운맛 120g*10개+진라면 순한맛 120g*10개	식품>가공식품>라면>봉지라면	9350	0	위메프	https://shopping-phinf.pstatic.net/main_1109005/11090059764.jpg
+NS11096262584	MALL	오뚜기 진라면매운맛(봉지) 120g 1개 - 라면3분요리식료품골라담자	식품>가공식품>라면>봉지라면	580	2500	티몬	https://shopping-phinf.pstatic.net/main_1109626/11096262584.jpg
+NS11130518706	MALL	[가공식품] 삼양라면 120g*10개 + 진라면 매운맛 120g*10개_즉석/조리/한끼/식사	식품>가공식품>라면>봉지라면	11990	0	위메프	https://shopping-phinf.pstatic.net/main_1113051/11130518706.jpg
+NS11136500255	MALL	오뚜기 진라면 봉지라면 매운맛 순한맛 120g 40개 한박스	식품>가공식품>라면>봉지라면	18900	2500	푸른다온	https://shopping-phinf.pstatic.net/main_1113650/11136500255.1.jpg
+NS11155903256	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	25210	2500	구판장	https://shopping-phinf.pstatic.net/main_1115590/11155903256.jpg
+NS11161186890	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	25420	2500	팡샵	https://shopping-phinf.pstatic.net/main_1116118/11161186890.jpg
+NS11163681685	MALL	[오뚜기] 진라면 매운맛	식품>가공식품>라면>봉지라면	510	2500	베이비또	https://shopping-phinf.pstatic.net/main_1116368/11163681685.1.jpg
+NS11164523912	MALL	오뚜기 진라면/열라면/농심 신라면/너구리/짜파게티/안성탕면/비빔면40봉 판매	식품>가공식품>라면>봉지라면	18900	2500	푸른다온	https://shopping-phinf.pstatic.net/main_1116452/11164523912.1.jpg
+NS11192885483	MALL	진라면 120gx40봉지(순한맛/매운맛) 봉지라면 진라면	식품>가공식품>라면>봉지라면	26530	2500	야키몰	https://shopping-phinf.pstatic.net/main_1119288/11192885483.1.jpg
+NS11193469848	MALL	진라면 120gx40봉지(순한맛/매운맛) 봉지라면 진라면	식품>가공식품>라면>봉지라면	23890	2500	11번가	https://shopping-phinf.pstatic.net/main_1119346/11193469848.jpg
+NS11211800086	MALL	농심 진라면 매운맛 (멀티) 120g 40개 1BOX	식품>가공식품>라면>봉지라면	21500	3000	배동바지	https://shopping-phinf.pstatic.net/main_1121180/11211800086.1.jpg
+NS11247412799	MALL	오뚜기 진라면 매운맛 1 한박스(120gX40개입)	식품>가공식품>라면>봉지라면	25900	2500	juncompany	https://shopping-phinf.pstatic.net/main_1124741/11247412799.1.jpg
+NS11260300533	MALL	[오뚜기] 01_진라면 매운맛 5입	식품>가공식품>라면>봉지라면	2350	2500	위메프	https://shopping-phinf.pstatic.net/main_1126030/11260300533.jpg
+NS11260300537	MALL	[오뚜기] 123_오뚜기진라면매운맛	식품>가공식품>라면>봉지라면	2990	2500	위메프	https://shopping-phinf.pstatic.net/main_1126030/11260300537.jpg
+NS11268187731	MALL	[오뚜기] 03_ 봉지)오뚜기 진라면 매운맛	식품>가공식품>라면>봉지라면	460	2500	위메프	https://shopping-phinf.pstatic.net/main_1126818/11268187731.jpg
+NS11308282401	MALL	오뚜기 진라면120g x 40봉/ 매운맛20봉+ 순한맛20봉/오뚜기 라면/진라면 매운맛 진라면 순한맛	식품>가공식품>라면>봉지라면	17900	2500	세이브웨이	https://shopping-phinf.pstatic.net/main_1130828/11308282401.1.jpg
+NS11308526620	MALL	오뚜기 진라면 매운맛 10봉 120g 순한맛	식품>가공식품>라면>봉지라면	4890	2500	킹스랜드	https://shopping-phinf.pstatic.net/main_1130852/11308526620.1.jpg
+NS11313298711	MALL	[오뚜기] 02_[봉지] 진라면(매운) 15개	식품>가공식품>라면>봉지라면	7900	0	위메프	https://shopping-phinf.pstatic.net/main_1131329/11313298711.jpg
+NS11327528311	MALL	[당일발송][슈퍼마트]진라면 매운맛 120g*40입 - 비교할수록 쇼핑은 티몬	식품>가공식품>라면>봉지라면	17630	3000	티몬	https://shopping-phinf.pstatic.net/main_1132752/11327528311.1.jpg
+NS11334970290	MALL	[오뚜기] 01.진라면 매운맛(봉지) 5개입	식품>가공식품>라면>봉지라면	2250	2500	위메프	https://shopping-phinf.pstatic.net/main_1133497/11334970290.jpg
+NS11356429025	MALL	[오뚜기] 22_봉지)오뚜기진라면매운맛 5개	식품>가공식품>라면>봉지라면	2900	2500	위메프	https://shopping-phinf.pstatic.net/main_1135642/11356429025.jpg
+NS11378486146	MALL	비엔에프푸드 오뚜기 진라면 멀티팩 120gx40개	식품>가공식품>라면>봉지라면	17030	2500	11번가	https://shopping-phinf.pstatic.net/main_1137848/11378486146.jpg
+NS11380635700	MALL	[당일발송]진라면 매운맛 120g 1박스 (40입) 오뚜기 - [슈퍼마트]진라면 매운맛 120g*40입	식품>가공식품>라면>봉지라면	17630	3000	티몬	https://shopping-phinf.pstatic.net/main_1138063/11380635700.1.jpg
+NS11454765762	MALL	[오뚜기] 오뚜기 진라면매운맛 5봉	식품>가공식품>라면>봉지라면	3500	2500	위메프	https://shopping-phinf.pstatic.net/main_1145476/11454765762.jpg
+NS11495356648	MALL	[오뚜기] 20_B45_오뚜기진라면(매)120g	식품>가공식품>라면>봉지라면	590	2500	위메프	https://shopping-phinf.pstatic.net/main_1149535/11495356648.jpg
+NS11504456702	MALL	오뚜기 진라면 매운맛 120g x 5개입 X 8EA (1박스)	식품>가공식품>라면>봉지라면	25200	0	11번가	https://shopping-phinf.pstatic.net/main_1150445/11504456702.1.jpg
+NS11537049018	MALL	오뚜기 진라면 매운맛 멀티팩(120gx5입) 4개	식품>가공식품>라면>봉지라면	10350	0	11번가	https://shopping-phinf.pstatic.net/main_1153704/11537049018.jpg
+NS11537871955	MALL	오뚜기)진라면 120gx5입x8봉(40개) 매운맛/순한맛/봉지라면	식품>가공식품>라면>봉지라면	20000	2500	가야몰	https://shopping-phinf.pstatic.net/main_1153787/11537871955.2.jpg
+NS11537873833	MALL	오뚜기)진라면 120gx5입x8봉(40개) 매운맛/순한맛/봉지라면	식품>가공식품>라면>봉지라면	22500	0	가야몰	https://shopping-phinf.pstatic.net/main_1153787/11537873833.2.jpg
+NS11543626293	MALL	오뚜기 진라면 매운맛 멀티팩(120gx5입) 4개		8910	0	인터파크	
+NS11549109788	MALL	[후추통 에이치102]오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	28450	2500	인터파크	https://shopping-phinf.pstatic.net/main_1154910/11549109788.jpg
+NS11585174403	MALL	오뚜기 진라면 매운맛 멀티팩(120gx5입) 4개	식품>가공식품>라면>봉지라면	10650	0	GSSHOP	https://shopping-phinf.pstatic.net/main_1158517/11585174403.jpg
+NS11610836733	MALL	오뚜기 진라면 매운맛 120g x40 /진라면 매운맛 120g 1박스	식품>가공식품>라면>봉지라면	18500	2500	옥션	https://shopping-phinf.pstatic.net/main_1161083/11610836733.jpg
+NS11618027090	MALL	오뚜기 진라면 120gx40봉 매운맛/순한맛	식품>가공식품>라면>봉지라면	16800	2500	대진물류	https://shopping-phinf.pstatic.net/main_1161802/11618027090.jpg
+NS11621694202	MALL	오뚜기 진라면 매운맛 120g X 5개입	식품>가공식품>라면>봉지라면	2290	2500	11번가	https://shopping-phinf.pstatic.net/main_1162169/11621694202.jpg
+NS11627564895	MALL	[가공식품] 안성탕면 125g*10개 + 진라면 매운맛 120g*10개_즉석/조리/한끼/식사	식품>가공식품>라면>봉지라면	12500	0	위메프	https://shopping-phinf.pstatic.net/main_1162756/11627564895.jpg
+NS11627565020	MALL	[복합상품] 20_[봉지] 진라면(매운) 10개+[봉지] 얼큰한너구리 10개	식품>가공식품>라면>봉지라면	13990	0	위메프	https://shopping-phinf.pstatic.net/main_1162756/11627565020.jpg
+NS11627565190	MALL	[로뎀나무] 21_[봉지] 진라면(매운) 10개+[봉지] 안성탕면 10개	식품>가공식품>라면>봉지라면	12500	0	위메프	https://shopping-phinf.pstatic.net/main_1162756/11627565190.jpg
+NS11627565720	MALL	[가공식품] 농심 너구리 얼큰한맛 120g*10봉+오뚜기 진라면 매운맛 120gg*10봉 _봉지라면	식품>가공식품>라면>봉지라면	13990	0	위메프	https://shopping-phinf.pstatic.net/main_1162756/11627565720.jpg
+NS11651586980	MALL	bbuang - (행사)오뚜기 진라면 매운맛 40봉지 (무배)	식품>가공식품>라면>봉지라면	18820	0	11번가	https://shopping-phinf.pstatic.net/main_1165158/11651586980.1.jpg
+NS11651588106	MALL	bbuang - (행사)오뚜기 진라면 매운맛 봉지라면 5봉	식품>가공식품>라면>봉지라면	2300	2500	11번가	https://shopping-phinf.pstatic.net/main_1165158/11651588106.jpg
+NS11678858040	MALL	오뚜기 진라면 매운맛/순한맛 120g x 40봉(멀티팩)	식품>가공식품>라면>봉지라면	19600	0	이원몰	https://shopping-phinf.pstatic.net/main_1167885/11678858040.jpg
+NS11678859871	MALL	오뚜기 진라면 매운맛/순한맛 120g x 40봉(멀티팩)	식품>가공식품>라면>봉지라면	19600	0	가자mall	https://shopping-phinf.pstatic.net/main_1167885/11678859871.jpg
+NS11703818863	MALL	[오뚜기] 04_B45_오뚜기진라면(매)120g	식품>가공식품>라면>봉지라면	650	2500	위메프	https://shopping-phinf.pstatic.net/main_1170381/11703818863.jpg
+NS11744373181	MALL	[쿠폰할인][텍사스][바이딜]오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	450	3000	바이폴	https://shopping-phinf.pstatic.net/main_1174437/11744373181.jpg
+NS11761689617	MALL	오뚜기진라면(매)120g X 10 매운맛 - 신라면 10입外 봉지/컵라면 100종	식품>가공식품>라면>봉지라면	6280	2500	티몬	https://shopping-phinf.pstatic.net/main_1176168/11761689617.jpg
+NS11786766008	MALL	[오뚜기] 02_진라면(매운) 10개	식품>가공식품>라면>봉지라면	7500	0	위메프	https://shopping-phinf.pstatic.net/main_1178676/11786766008.jpg
+NS11788319774	MALL	[오뚜기]진라면매운맛 120gX10개입	식품>가공식품>라면>봉지라면	4740	2500	11번가	https://shopping-phinf.pstatic.net/main_1178831/11788319774.jpg
+NS11788335925	MALL	[오뚜기]진라면순한맛 120gX10개입+매운맛 120gX10개입	식품>가공식품>라면>봉지라면	11500	0	11번가	https://shopping-phinf.pstatic.net/main_1178833/11788335925.3.jpg
+NS11793070900	MALL	[오뚜기] 01_진라면(매운) 20개	식품>가공식품>라면>봉지라면	10120	0	위메프	https://shopping-phinf.pstatic.net/main_1179307/11793070900.jpg
+NS11793071781	MALL	[가공식품] 농심 신라면 120g*10개+오뚜기 진라면 매운맛 120g*10개	식품>가공식품>라면>봉지라면	11820	0	위메프	https://shopping-phinf.pstatic.net/main_1179307/11793071781.jpg
+NS11793074119	MALL	[가공식품] 오뚜기 진라면 매운맛 120g*10개+팔도 비빔면 130g*10개	식품>가공식품>라면>봉지라면	11480	0	위메프	https://shopping-phinf.pstatic.net/main_1179307/11793074119.jpg
+NS11793257401	MALL	오뚜기 진라면 매운맛 120g x 40개	식품>가공식품>라면>봉지라면	17000	2500	함께라면	https://shopping-phinf.pstatic.net/main_1179325/11793257401.jpg
+NS11795357106	MALL	[오뚜기] 01_ 진라면(매운) 10개	식품>가공식품>라면>봉지라면	6500	0	위메프	https://shopping-phinf.pstatic.net/main_1179535/11795357106.jpg
+NS11801788509	MALL	[오뚜기] 07_ 진라면 매운맛 5봉	식품>가공식품>라면>봉지라면	2990	2500	위메프	https://shopping-phinf.pstatic.net/main_1180178/11801788509.jpg
+NS11802567922	MALL	[오뚜기] 02_진라면(매운) 20개	식품>가공식품>라면>봉지라면	11000	0	위메프	https://shopping-phinf.pstatic.net/main_1180256/11802567922.jpg
+NS11802568313	MALL	[오뚜기] 06_ 진라면(매운) 40개	식품>가공식품>라면>봉지라면	20900	0	위메프	https://shopping-phinf.pstatic.net/main_1180256/11802568313.jpg
+NS11807669287	MALL	오뚜기  오뚜기 진라면매운맛 120gX10개입	식품>가공식품>라면>봉지라면	4230	2500	옥션	https://shopping-phinf.pstatic.net/main_1180766/11807669287.1.jpg
+NS11809235813	MALL	[오뚜기] 03_진라면(매운) 40개	식품>가공식품>라면>봉지라면	16800	0	위메프	https://shopping-phinf.pstatic.net/main_1180923/11809235813.jpg
+NS11809594901	MALL	[당일발송][대용량] 진라면 매운맛 120gx40개 - 비교할수록 쇼핑은 티몬	식품>가공식품>라면>봉지라면	17700	0	티몬	https://shopping-phinf.pstatic.net/main_1180959/11809594901.2.jpg
+NS11814519995	MALL	오뚜기 오뚜기 진라면순한맛 120gX10개입+매운맛 120gX10개입	식품>가공식품>라면>봉지라면	11580	0	옥션	https://shopping-phinf.pstatic.net/main_1181451/11814519995.3.jpg
+NS11818875728	MALL	오뚜기 [오뚜기]진라면순한맛 120gX10개입+매운맛 120gX10개입	식품>가공식품>라면>봉지라면	11000	0	G마켓	https://shopping-phinf.pstatic.net/main_1181887/11818875728.2.jpg
+NS11825601295	MALL	[당일발송]오뚜기 진라면 매운맛 120gx40개 (박스)  - [대용량] 진라면 매운맛 120gx40개	식품>가공식품>라면>봉지라면	17700	0	티몬	https://shopping-phinf.pstatic.net/main_1182560/11825601295.jpg
+NS11830285679	MALL	[오뚜기] 03_진라면(매운) 5개		2460	2500	위메프	
+NS11852502930	MALL	[오뚜기] 38_오뚜기진라면매운맛	식품>가공식품>라면>봉지라면	470	2500	위메프	https://shopping-phinf.pstatic.net/main_1185250/11852502930.jpg
+NS11852503148	MALL	[오뚜기] 71_오뚜기 진라면매운맛 5개	식품>가공식품>라면>봉지라면	2900	2500	위메프	https://shopping-phinf.pstatic.net/main_1185250/11852503148.jpg
+NS11852504298	MALL	[오뚜기] 125_봉지)오뚜기진라면매운맛 5개	식품>가공식품>라면>봉지라면	2340	2500	위메프	https://shopping-phinf.pstatic.net/main_1185250/11852504298.jpg
+NS11852505017	MALL	[오뚜기] 119_오뚜기진라면매운맛	식품>가공식품>라면>봉지라면	590	2500	위메프	https://shopping-phinf.pstatic.net/main_1185250/11852505017.jpg
+NS11852505653	MALL	[오뚜기] 49_오뚜기진라면매운맛 5개	식품>가공식품>라면>봉지라면	2590	2500	위메프	https://shopping-phinf.pstatic.net/main_1185250/11852505653.jpg
+NS11853861137	MALL	오뚜기 진라면 매운맛 멀티팩 (120gx5)x8팩 1박스	식품>가공식품>라면>봉지라면	24750	0	11번가	https://shopping-phinf.pstatic.net/main_1185386/11853861137.jpg
+NS11870613490	MALL	(오뚜기) 진라면 매운맛 멀티팩 (120g x 5개) x8팩_총	식품>가공식품>라면>봉지라면	29210	0	11번가	https://shopping-phinf.pstatic.net/main_1187061/11870613490.jpg
+NS11875142320	MALL	오뚜기진라면(매)120g 매운맛 - 라면사리 20봉 외 인기라면	식품>가공식품>라면>봉지라면	560	2500	티몬	https://shopping-phinf.pstatic.net/main_1187514/11875142320.jpg
+NS11901008163	MALL	[오뚜기][롯데백화점]오뚜기 진라면 매운맛 멀티팩(120gx5입)X4개[총 20봉]_403161733	식품>가공식품>라면>봉지라면	11400	0	엘롯데	https://shopping-phinf.pstatic.net/main_1190100/11901008163.jpg
+NS11931407416	MALL	[오뚜기] 55_오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	380	2500	위메프	https://shopping-phinf.pstatic.net/main_1193140/11931407416.jpg
+NS11943614904	MALL	[오뚜기] 02_진라면 매운맛 40봉	식품>가공식품>라면>봉지라면	18800	0	위메프	https://shopping-phinf.pstatic.net/main_1194361/11943614904.jpg
+NS11969220692	MALL	[오뚜기] 진라면(매운맛)멀티5입x8 (1박스)	식품>가공식품>라면>봉지라면	23600	0	위메프	https://shopping-phinf.pstatic.net/main_1196922/11969220692.jpg
+NS11976996420	MALL	[카드 5% 할인][롯데아이몰]오뚜기 [오뚜기]진라면순한맛 120gX10개입+매운맛 120gX10개입	식품>가공식품>라면>봉지라면	12000	0	G9	https://shopping-phinf.pstatic.net/main_1197699/11976996420.2.jpg
+NS11986328758	MALL	[오뚜기] 04_진라면사리 (매운맛)업소용 120g_30개	식품>가공식품>라면>봉지라면	13900	0	위메프	https://shopping-phinf.pstatic.net/main_1198632/11986328758.jpg
+NS12005386392	MALL	오뚜기 진라면PLUS 매운맛 120g x 30봉	식품>가공식품>라면>봉지라면	12890	5000	인마이카트	https://shopping-phinf.pstatic.net/main_1200538/12005386392.jpg
+NS12012219062	MALL	진라면 매운맛 120g X 20봉기획세트 얼큰한국물 탱탱한면발 봉지라면 간편식사W070C10	식품>가공식품>라면>봉지라면	18320	2500	이데이몰	https://shopping-phinf.pstatic.net/main_1201221/12012219062.1.jpg
+NS12106606451	MALL	오뚜기 진라면 매운맛 120g 40개	식품>가공식품>라면>봉지라면	22090	2500	G마켓	https://shopping-phinf.pstatic.net/main_1210660/12106606451.jpg
+NS12116811823	MALL	[복합상품] 삼양 라면 매운맛 120g*10개+오뚜기 진라면 순한맛 120g*10개	식품>가공식품>라면>봉지라면	11500	0	위메프	https://shopping-phinf.pstatic.net/main_1211681/12116811823.jpg
+NS12119471840	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	26290	3000	칠성상회	https://shopping-phinf.pstatic.net/main_1211947/12119471840.jpg
+NS12120370885	MALL	진라면 매운맛 멀티팩 (120X5) - 오뚜기 봉지라면 멀티팩 모음	식품>가공식품>라면>봉지라면	2460	2500	티몬	https://shopping-phinf.pstatic.net/main_1212037/12120370885.jpg
+NS12127288302	MALL	오뚜기 진라면 매운맛 라면 120g 1개	식품>가공식품>라면>봉지라면	450	2500	킹스랜드	https://shopping-phinf.pstatic.net/main_1212728/12127288302.jpg
+NS12148345815	MALL	코스트코 진라면 플러스(매운맛)120gX30개입/봉지면	식품>가공식품>라면>봉지라면	15700	2500	짱푸드	https://shopping-phinf.pstatic.net/main_1214834/12148345815.jpg
+NS12160369649	MALL	오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	480	2500	마켓프로	https://shopping-phinf.pstatic.net/main_1216036/12160369649.jpg
+NS12164444028	MALL	오뚜기진라면매운맛 1개 120g - 자취러 주목★3분카레/참치 72종 모음!	식품>가공식품>라면>봉지라면	530	2500	티몬	https://shopping-phinf.pstatic.net/main_1216444/12164444028.jpg
+NS12194195385	MALL	오뚜기 진라면 매운맛 40봉 120g - [대용량]오뚜기 진라면 매운맛 40봉	식품>가공식품>라면>봉지라면	17820	0	티몬	https://shopping-phinf.pstatic.net/main_1219419/12194195385.jpg
+NS12203996577	MALL	오뚜기 진라면 매운맛 120g 5개입 멀티팩/라면/용기면	식품>가공식품>라면>봉지라면	2520	2500	11번가	https://shopping-phinf.pstatic.net/main_1220399/12203996577.jpg
+NS12232157341	MALL	오뚜기 진라면 매운맛 120g 40개	식품>가공식품>라면>봉지라면	28760	2500	공장상도	https://shopping-phinf.pstatic.net/main_1223215/12232157341.jpg
+NS12247539237	MALL	오뚜기 진라면 매운맛 120g 40개	식품>가공식품>라면>봉지라면	26460	2500	11번가	https://shopping-phinf.pstatic.net/main_1224753/12247539237.jpg
+NS12273161828	MALL	진라면 40개입 1박스 순한맛 / 매운맛 (개당가 450원)	식품>가공식품>라면>봉지라면	18000	2500	유캔쇼핑	https://shopping-phinf.pstatic.net/main_1227316/12273161828.jpg
+NS12287619276	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	3030	2500	11번가	https://shopping-phinf.pstatic.net/main_1228761/12287619276.1.jpg
+NS12311247681	MALL	오뚜기 진라면 120gx40봉지 매운맛	식품>가공식품>라면>봉지라면	17300	2500	낙타마트	https://shopping-phinf.pstatic.net/main_1231124/12311247681.jpg
+NS12325983705	MALL	오뚜기 오동통면 120g+진라면 매운맛 120g 즉석식품	식품>가공식품>라면>봉지라면	1000	2500	위메프	https://shopping-phinf.pstatic.net/main_1232598/12325983705.jpg
+NS12352584724	MALL	(가공)오뚜기 진라면(매) 120g 5입	식품>가공식품>라면>봉지라면	2340	2500	11번가	https://shopping-phinf.pstatic.net/main_1235258/12352584724.4.jpg
+NS12443505445	MALL	오뚜기진라면매운맛 5개 120g - ★인기 봉지라면 69종 모음전★	식품>가공식품>라면>봉지라면	2560	2500	티몬	https://shopping-phinf.pstatic.net/main_1244350/12443505445.jpg
+NS12452978296	MALL	오뚜기 진라면 40봉/스낵면/너구리/풀무원칼국수/돈코츠라멘	식품>가공식품>라면>봉지라면	19900	0	옥션	https://shopping-phinf.pstatic.net/main_1245297/12452978296.jpg
+NS12511716385	MALL	진라면 매운맛 120g x40 /진라면 매운맛 120g 1박스	식품>가공식품>라면>봉지라면	16530	2500	11번가	https://shopping-phinf.pstatic.net/main_1251171/12511716385.jpg
+NS12536871097	MALL	오뚜기 진라면 매운맛 120g 40개	식품>가공식품>라면>봉지라면	21800	2500	인터파크	https://shopping-phinf.pstatic.net/main_1253687/12536871097.jpg
+NS12553895274	MALL	[당일발송][슈퍼마트]진라면 매운맛 120g*5입 - 비교할수록 쇼핑은 티몬	식품>가공식품>라면>봉지라면	2100	3000	티몬	https://shopping-phinf.pstatic.net/main_1255389/12553895274.1.jpg
+NS12585785978	MALL	(오뚜기) 진라면 매운맛 멀티팩 (120g x 5개) x8팩_총	식품>가공식품>라면>봉지라면	27790	2500	11번가	https://shopping-phinf.pstatic.net/main_1258578/12585785978.jpg
+NS12666173423	MALL	[당일발송]오뚜기 진라면 매운맛 120g*10개  - [슈퍼마트]오뚜기 Best 모음전♥	식품>가공식품>라면>봉지라면	4360	3000	티몬	https://shopping-phinf.pstatic.net/main_1266617/12666173423.jpg
+NS12666173861	MALL	[당일발송]오뚜기 진라면 매운맛 120g*3개  - [슈퍼마트]오뚜기 Best 모음전♥	식품>가공식품>라면>봉지라면	1040	3000	티몬	https://shopping-phinf.pstatic.net/main_1266617/12666173861.jpg
+NS12666173862	MALL	[당일발송]오뚜기 진라면 매운맛 120g*2개  - [슈퍼마트]오뚜기 Best 모음전♥	식품>가공식품>라면>봉지라면	950	3000	티몬	https://shopping-phinf.pstatic.net/main_1266617/12666173862.jpg
+NS12673102572	MALL	[오뚜기]진라면 매운맛(멀티)40개 1박스	식품>가공식품>라면>봉지라면	16500	2500	빅히트몰	https://shopping-phinf.pstatic.net/main_1267310/12673102572.jpg
+NS12734703087	MALL	[케공] 진라면 매운맛 5개=1봉 120g	식품>가공식품>라면>봉지라면	4310	3000	11번가	https://shopping-phinf.pstatic.net/main_1273470/12734703087.jpg
+NS12746374486	MALL	편한가게오뚜기 진라면 매운맛 120g 40개	식품>가공식품>라면>봉지라면	26380	2500	11번가	https://shopping-phinf.pstatic.net/main_1274637/12746374486.jpg
+NS12773885483	MALL	76종 인기라면 골라담기/진라면/신라면/비빔면/진짬뽕	식품>가공식품>라면>봉지라면	2750	2500	파코도노	https://shopping-phinf.pstatic.net/main_1277388/12773885483.3.jpg
+NS12784948427	MALL	오뚜기 진라면 매운맛 멀티 120gx40개/1BOX	식품>가공식품>라면>봉지라면	19500	0	고래마트N	https://shopping-phinf.pstatic.net/main_1278494/12784948427.jpg
+NS12786924437	MALL	오뚜기 진라면 매운맛 멀티 120gx40개/1BOX 무배	식품>가공식품>라면>봉지라면	19500	0	고래마트	https://shopping-phinf.pstatic.net/main_1278692/12786924437.jpg
+NS12795393022	MALL	오뚜기 진라면 매운맛 멀티 120gx40봉지/1BOX 도매	식품>가공식품>라면>봉지라면	20900	0	11번가	https://shopping-phinf.pstatic.net/main_1279539/12795393022.1.jpg
+NS12863314476	MALL	진라면 매운맛 멀티팩 (120gX5) x 8개	식품>가공식품>라면>봉지라면	24730	0	11번가	https://shopping-phinf.pstatic.net/main_1286331/12863314476.jpg
+NS12879616177	MALL	[무료배송] 오뚜기 진라면 매운맛 120g x 40개	식품>가공식품>라면>봉지라면	21000	0	11번가	https://shopping-phinf.pstatic.net/main_1287961/12879616177.jpg
+NS12903551584	MALL	오뚜기 진라면 매운맛 봉지라면 40봉 120g - [무료배송]오뚜기 봉지라면 21종	식품>가공식품>라면>봉지라면	17550	0	티몬	https://shopping-phinf.pstatic.net/main_1290355/12903551584.192.jpg
+NS12921027581	MALL	[오뚜기] 라면 진라면 매운맛 120g[40개] 라면/진라면/봉지라면	식품>가공식품>라면>봉지라면	18680	0	11번가	https://shopping-phinf.pstatic.net/main_1292102/12921027581.jpg
+NS12938895481	MALL	오뚜기 진라면 매운맛 멀티팩120gx5입X4개[총 20봉]	식품>가공식품>라면>봉지라면	11880	0	CJmall	https://shopping-phinf.pstatic.net/main_1293889/12938895481.jpg
+NS12947901758	MALL	진라면 매운맛 5입 120g - 농심/오뚜기/팔도 봉지라면 5봉!	식품>가공식품>라면>봉지라면	2480	2500	티몬	https://shopping-phinf.pstatic.net/main_1294790/12947901758.jpg
+NS12953378088	MALL	오뚜기 진라면 매운맛 멀티팩(120gx5입) 4개	식품>가공식품>라면>봉지라면	10690	0	인터파크	https://shopping-phinf.pstatic.net/main_1295337/12953378088.jpg
+NS12955671164	MALL	진라면 매운맛 5입 120g - 농심/삼양/오뚜기外 인기라면16종★	식품>가공식품>라면>봉지라면	2880	2500	티몬	https://shopping-phinf.pstatic.net/main_1295567/12955671164.jpg
+NS13047771285	MALL	오뚜기 오뚜기 진라면 매운맛 멀티팩120gx5입X4개[총 20봉]	식품>가공식품>라면>봉지라면	11160	0	G마켓	https://shopping-phinf.pstatic.net/main_1304777/13047771285.jpg
+NS13047830899	MALL	오뚜기 진라면 매운맛 멀티팩120gx5입X4개[총 20봉]	식품>가공식품>라면>봉지라면	10990	0	11번가	https://shopping-phinf.pstatic.net/main_1304783/13047830899.5.jpg
+NS13065592740	MALL	(BOX.무료)a 오뚜기)진라면(매운)멀티 120g x 40	식품>가공식품>라면>봉지라면	18900	0	한양슈퍼도매	https://shopping-phinf.pstatic.net/main_1306559/13065592740.jpg
+NS13065605083	MALL	오뚜기 진라면(매운맛) 120g X 1박스(5봉X8팩=40봉)	식품>가공식품>라면>봉지라면	20250	0	11번가	https://shopping-phinf.pstatic.net/main_1306560/13065605083.jpg
+NS13153779195	MALL	삼양라면/진라면 2종(매운맛/순한맛) 20봉 3종택일	식품>가공식품>라면>봉지라면	9900	0	G9	https://shopping-phinf.pstatic.net/main_1315377/13153779195.1.jpg
+NS13158929223	MALL	오뚜기 진라면 매운맛 120g x 40개  - ★ALL무료배송★봉지라면	식품>가공식품>라면>봉지라면	18900	0	티몬	https://shopping-phinf.pstatic.net/main_1315892/13158929223.jpg
+NS13224139217	MALL	오뚜기) 진라면 매운맛 멀티팩 (120g x 5개) x8팩_총	식품>가공식품>라면>봉지라면	29770	2500	11번가	https://shopping-phinf.pstatic.net/main_1322413/13224139217.jpg
+NS13297307980	MALL	진라면(매운맛)-40봉 오뚜기 120g - 진라면	식품>가공식품>라면>봉지라면	17720	0	티몬	https://shopping-phinf.pstatic.net/main_1329730/13297307980.jpg
+NS13312459726	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	23069	2500	로봇쇼핑	https://shopping-phinf.pstatic.net/main_1331245/13312459726.jpg
+NS13440880027	MALL	[당일발송]오뚜기 진라면(매)120g(5개) 매운맛 - 마트 인기라면 세트 82종♥	식품>가공식품>라면>봉지라면	2520	2500	티몬	https://shopping-phinf.pstatic.net/main_1344088/13440880027.jpg
+NS13561491107	MALL	오뚜기 진라면 매운맛 멀티팩 (120g*5)  - 마트 Best 상품 초특가	식품>가공식품>라면>봉지라면	2000	2500	티몬	https://shopping-phinf.pstatic.net/main_1356149/13561491107.37.jpg
+NS13563278910	MALL	오뚜기 진라면 매운맛 120g 5봉  - ★봉지라면 5봉 최다구성	식품>가공식품>라면>봉지라면	2000	2500	티몬	https://shopping-phinf.pstatic.net/main_1356327/13563278910.jpg
+NS13602793027	MALL	[늘건강] 오뚜기 진라면매운맛(멀티팩)120gx40개입(1	식품>가공식품>라면>봉지라면	28660	2500	인터파크	https://shopping-phinf.pstatic.net/main_1360279/13602793027.jpg
+NS13602877903	MALL	[늘건강] 오뚜기 진라면 매운맛 1박스(40개입)	식품>가공식품>라면>봉지라면	28490	2500	인터파크	https://shopping-phinf.pstatic.net/main_1360287/13602877903.jpg
+NS13636374840	MALL	진라면 매운맛 120g x 1개 (12개 한정) 오뚜기 - GOOD★라면&과자 162종 모음전	식품>가공식품>라면>봉지라면	480	2500	티몬	https://shopping-phinf.pstatic.net/main_1363637/13636374840.jpg
+NS13643129168	MALL	(박스)오뚜기 진라면(매) 120g 40입	식품>가공식품>라면>봉지라면	20940	0	인터파크	https://shopping-phinf.pstatic.net/main_1364312/13643129168.jpg
+NS13688718935	MALL	오뚜기 진라면 매운맛 멀티팩 120g*5입  - 진라면/오뚜기밥 外 모음전	식품>가공식품>라면>봉지라면	1980	2500	티몬	https://shopping-phinf.pstatic.net/main_1368871/13688718935.5.jpg
+NS13699487303	MALL	[당일발송]진라면 매운맛 120g*5입 오뚜기 - [슈퍼마트]진라면 매운맛 120g*5입	식품>가공식품>라면>봉지라면	2100	3000	티몬	https://shopping-phinf.pstatic.net/main_1369948/13699487303.jpg
+NS13722582827	MALL	오뚜기 진라면 매운맛 멀티팩 (120g*5)  - 라면/과자/간편식 골라담기	식품>가공식품>라면>봉지라면	2030	2500	티몬	https://shopping-phinf.pstatic.net/main_1372258/13722582827.1.jpg
+NS13741316611	MALL	오뚜기 진라면(매) 120g 5입	식품>가공식품>라면>봉지라면	2370	2500	11번가	https://shopping-phinf.pstatic.net/main_1374131/13741316611.jpg
+NS13746168600	MALL	오뚜기 진라면 매운맛 멀티팩(120g*5입*4팩, 총 20봉) / 무료배송	식품>가공식품>라면>봉지라면	11150	0	롯데아이몰	https://shopping-phinf.pstatic.net/main_1374616/13746168600.jpg
+NS13750193281	MALL	[오뚜기][롯데백화점]진라면 매운맛 멀티팩(120g*5입*4팩, 총 20봉) / 무료배송_484172098	식품>가공식품>라면>봉지라면	12260	0	엘롯데	https://shopping-phinf.pstatic.net/main_1375019/13750193281.jpg
+NS13755400019	MALL	진라면(매운맛) 20봉 오뚜기 120g - 봉지라면 20개입! 한정수량!	식품>가공식품>라면>봉지라면	11610	0	티몬	https://shopping-phinf.pstatic.net/main_1375540/13755400019.11.jpg
+NS13755434676	MALL	진라면 매운맛 10입  - 농심/오뚜기/팔도 봉지라면 71종 10봉	식품>가공식품>라면>봉지라면	5670	2500	티몬	https://shopping-phinf.pstatic.net/main_1375543/13755434676.jpg
+NS13760156275	MALL	[당일발송]오뚜기 진라면 매운맛 멀티팩(5봉) 120g - 76종 인기라면 골라담기	식품>가공식품>라면>봉지라면	2660	2500	티몬	https://shopping-phinf.pstatic.net/main_1376015/13760156275.jpg
+NS13777447185	MALL	오뚜기 진라면(매) 120g 5입	식품>가공식품>라면>봉지라면	2430	2500	11번가	https://shopping-phinf.pstatic.net/main_1377744/13777447185.2.jpg
+NS13825663608	MALL	오뚜기 진라면 매운맛 순한맛 40입 1BOX 선택	식품>가공식품>라면>봉지라면	19230	0	11번가	https://shopping-phinf.pstatic.net/main_1382566/13825663608.17.jpg
+NS13832488954	MALL	봉지)오뚜기진라면매운맛 15개 120g - 스트레스 받을 때는강렬한 매운맛의 중독!★16종 인기라면 총집합★	식품>가공식품>라면>봉지라면	8010	0	티몬	https://shopping-phinf.pstatic.net/main_1383248/13832488954.14.jpg
+NS13839942984	MALL	오뚜기 진라면 매운맛 멀티 5P  - [농심/오뚜기/삼양]라면 멀티팩 모음전	식품>가공식품>라면>봉지라면	2250	2500	티몬	https://shopping-phinf.pstatic.net/main_1383994/13839942984.22.jpg
+NS13850233093	MALL	[오뚜기] 진라면 매운맛 120g x 40봉	식품>가공식품>라면>봉지라면	16000	2500	라인슈퍼도매	https://shopping-phinf.pstatic.net/main_1385023/13850233093.jpg
+NS13851053793	MALL	오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	350	3000	라인슈퍼도매	https://shopping-phinf.pstatic.net/main_1385105/13851053793.jpg
+NS13879126248	MALL	진라면 매운맛 멀티5입 x 7개 + 렌지타임 누들 사은품  - [푸드] 라면도 저렴한데 사은품까지!	식품>가공식품>라면>봉지라면	17550	0	티몬	https://shopping-phinf.pstatic.net/main_1387912/13879126248.9.jpg
+NS13973703871	MALL	오뚜기 진라면 매운맛(120g)5봉지/봉지라면	식품>가공식품>라면>봉지라면	2520	2500	11번가	https://shopping-phinf.pstatic.net/main_1397370/13973703871.1.jpg
+NS13999595806	MALL	오뚜기 진라면 매운맛 120g x 48개 (한박스)  - [무료배송]진라면 40+8봉	식품>가공식품>라면>봉지라면	21900	0	티몬	https://shopping-phinf.pstatic.net/main_1399959/13999595806.jpg
+NS14004963017	MALL	[오뚜기] 봉지라면/멀티/진라면/매운맛/120gx5입/오뚜기	식품>가공식품>라면>봉지라면	2430	2900	11번가	https://shopping-phinf.pstatic.net/main_1400496/14004963017.1.jpg
+NS14019658360	MALL	오뚜기 진라면(매) 120g 40입 // 무료배송, 봉지라면	식품>가공식품>라면>봉지라면	20920	0	인터파크	https://shopping-phinf.pstatic.net/main_1401965/14019658360.jpg
+NS14032823997	MALL	봉지)오뚜기진라면매운맛 5개 120g - [팔도/삼양/농심]라면 75종 1,340원!! 실화??싸 GET~!!	식품>가공식품>라면>봉지라면	2120	2500	티몬	https://shopping-phinf.pstatic.net/main_1403282/14032823997.7.jpg
+NS14033145704	MALL	오뚜기 진라면(매)120g	식품>가공식품>라면>봉지라면	490	2500	인터파크	https://shopping-phinf.pstatic.net/main_1403314/14033145704.jpg
+NS14033167393	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스) 라면	식품>가공식품>라면>봉지라면	25800	2500	인터파크	https://shopping-phinf.pstatic.net/main_1403316/14033167393.jpg
+NS14033183904	MALL	오뚜기 진라면(매) 120g 5입	식품>가공식품>라면>봉지라면	2380	2500	인터파크	https://shopping-phinf.pstatic.net/main_1403318/14033183904.jpg
+NS14049415046	MALL	오뚜기 진라면 매운맛 / 120gx10개입 / 봉지라면	식품>가공식품>라면>봉지라면	5160	2500	11번가	https://shopping-phinf.pstatic.net/main_1404941/14049415046.jpg
+NS14055661813	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	2950	2500	더베스트팜	https://shopping-phinf.pstatic.net/main_1405566/14055661813.jpg
+NS14063794731	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	3010	2500	굿스탱크	https://shopping-phinf.pstatic.net/main_1406379/14063794731.jpg
+NS14072294908	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	2910	2500	쏭미마켓	https://shopping-phinf.pstatic.net/main_1407229/14072294908.jpg
+NS14072296271	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	2900	2500	마녀mall	https://shopping-phinf.pstatic.net/main_1407229/14072296271.jpg
+NS14084348638	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	2950	2500	4si5	https://shopping-phinf.pstatic.net/main_1408434/14084348638.jpg
+NS14084364751	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	2970	2500	라라라몰	https://shopping-phinf.pstatic.net/main_1408436/14084364751.jpg
+NS14084365305	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	2940	2500	마성	https://shopping-phinf.pstatic.net/main_1408436/14084365305.jpg
+NS14104404126	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	3390	2500	인터파크	https://shopping-phinf.pstatic.net/main_1410440/14104404126.jpg
+NS14117520850	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	3000	2500	헬로어서와	https://shopping-phinf.pstatic.net/main_1411752/14117520850.jpg
+NS14117525572	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	3000	2500	다이써	https://shopping-phinf.pstatic.net/main_1411752/14117525572.jpg
+NS14137428764	MALL	오뚜기 진라면 매운맛 1박스 40입	식품>가공식품>라면>봉지라면	19350	2500	11번가	https://shopping-phinf.pstatic.net/main_1413742/14137428764.jpg
+NS14142828085	MALL	오뚜기 진라면 매운맛 1박스 40입	식품>가공식품>라면>봉지라면	19080	2500	인터파크	https://shopping-phinf.pstatic.net/main_1414282/14142828085.jpg
+NS14156112401	MALL	진라면 진라면 매운맛 멀티팩 (120gx5입)	식품>가공식품>라면>봉지라면	2080	3000	옥션	https://shopping-phinf.pstatic.net/main_1415611/14156112401.jpg
+NS14156124382	MALL	진라면 진라면 매운맛 멀티팩 (120gx5입) 8개(1박스)	식품>가공식품>라면>봉지라면	16850	3000	옥션	https://shopping-phinf.pstatic.net/main_1415612/14156124382.jpg
+NS14177760873	MALL	오뚜기 진라면 매운맛 120g x 5개입_푸드멍냥 재주문338	식품>가공식품>라면>봉지라면	3150	3000	푸드멍냥	https://shopping-phinf.pstatic.net/main_1417776/14177760873.jpg
+NS14206264285	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스) 라면	식품>가공식품>라면>봉지라면	24820	2500	인터파크	https://shopping-phinf.pstatic.net/main_1420626/14206264285.jpg
+NS14248401248	MALL	오뚜기 진라면 매운맛 멀티팩(120gx5입)X4개[총 20봉]	식품>가공식품>라면>봉지라면	10900	0	K쇼핑	https://shopping-phinf.pstatic.net/main_1424840/14248401248.jpg
+NS14251740513	MALL	170904BBBBB-3992 오뚜기 진라면 매운맛 120g 40개	식품>가공식품>라면>봉지라면	35960	2500	모리하우스	https://shopping-phinf.pstatic.net/main_1425174/14251740513.jpg
+NS14283843336	MALL	(당일출고)오뚜기 진라면(매) 120g 5입	식품>가공식품>라면>봉지라면	2460	2500	11번가	https://shopping-phinf.pstatic.net/main_1428384/14283843336.jpg
+NS14292236005	MALL	오뚜기 진라면 매운맛 120g 40개	식품>가공식품>라면>봉지라면	32210	2500	바다왕	https://shopping-phinf.pstatic.net/main_1429223/14292236005.jpg
+NS14306968343	MALL	오뚜기 진라면 매운맛 120g x 5입 멀티팩	식품>가공식품>라면>봉지라면	3360	2500	제주키친	https://shopping-phinf.pstatic.net/main_1430696/14306968343.jpg
+NS14310622858	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	2900	2500	고파몰	https://shopping-phinf.pstatic.net/main_1431062/14310622858.jpg
+NS14312766377	MALL	오뚜기 진라면(매) 120g 5입 /라면/간식/오뚜기라면	식품>가공식품>라면>봉지라면	2340	2500	11번가	https://shopping-phinf.pstatic.net/main_1431276/14312766377.jpg
+NS14346272132	MALL	오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	490	2500	인터파크	https://shopping-phinf.pstatic.net/main_1434627/14346272132.jpg
+NS14346679149	MALL	오뚜기 진라면(매) 멀티팩 120g 5입	식품>가공식품>라면>봉지라면	2430	2500	11번가	https://shopping-phinf.pstatic.net/main_1434667/14346679149.jpg
+NS14349357552	MALL	오뚜기 진라면(매) 120g 5입	식품>가공식품>라면>봉지라면	2430	2500	인터파크	https://shopping-phinf.pstatic.net/main_1434935/14349357552.jpg
+NS14352144425	MALL	오뚜기 진라면(매)120g	식품>가공식품>라면>봉지라면	500	2500	인터파크	https://shopping-phinf.pstatic.net/main_1435214/14352144425.jpg
+NS14362819367	MALL	오뚜기 진라면 매운맛 120g x 5입 멀티팩	식품>가공식품>라면>봉지라면	4300	3000	별밍샵	https://shopping-phinf.pstatic.net/main_1436281/14362819367.jpg
+NS14365964880	MALL	오뚜기 진라면(매) 120g 40입	식품>가공식품>라면>봉지라면	21650	0	인터파크	https://shopping-phinf.pstatic.net/main_1436596/14365964880.jpg
+NS14372433865	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)라면,	식품>가공식품>라면>봉지라면	31240	0	인터파크	https://shopping-phinf.pstatic.net/main_1437243/14372433865.jpg
+NS14409453276	MALL	[오뚜기] 032_B45_오뚜기진라면(매)120g	식품>가공식품>라면>봉지라면	470	2500	위메프	https://shopping-phinf.pstatic.net/main_1440945/14409453276.jpg
+NS14410042277	MALL	오뚜기 진라면 120g (매운맛) 5봉 X 8팩 = 40봉(1박스) Ru16	식품>가공식품>라면>봉지라면	23010	2500	싸다코리아	https://shopping-phinf.pstatic.net/main_1441004/14410042277.jpg
+NS14420393234	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	27830	2500	인터파크	https://shopping-phinf.pstatic.net/main_1442039/14420393234.jpg
+NS14421336331	MALL	오뚜기 진라면 매운맛 1박스(40개입)	식품>가공식품>라면>봉지라면	27680	2500	인터파크	https://shopping-phinf.pstatic.net/main_1442133/14421336331.jpg
+NS14427995803	MALL	오뚜기 진라면 매운맛 120g x 5입 멀티팩	식품>가공식품>라면>봉지라면	3560	2500	프리쇼핑샵	https://shopping-phinf.pstatic.net/main_1442799/14427995803.jpg
+NS14428492154	MALL	진라면 매운맛 5입 - BEST★ 봉지라면 77종!	식품>가공식품>라면>봉지라면	2550	2500	티몬	https://shopping-phinf.pstatic.net/main_1442849/14428492154.jpg
+NS14432680973	MALL	오뚜기 진라면 매운맛멀티팩 120gX40개입	식품>가공식품>라면>봉지라면	29400	2500	인터파크	https://shopping-phinf.pstatic.net/main_1443268/14432680973.jpg
+NS14435952160	MALL	[오뚜기] 01_진라면 매운맛 멀티팩(120gX5입) 8개(40봉)	식품>가공식품>라면>봉지라면	18400	0	위메프	https://shopping-phinf.pstatic.net/main_1443595/14435952160.jpg
+NS14456387799	MALL	[롯데아이몰][오뚜기][오뚜기]진라면매운맛 120gX20개입	식품>가공식품>라면>봉지라면	11960	0	인터파크	https://shopping-phinf.pstatic.net/main_1445638/14456387799.jpg
+NS14456839003	MALL	[롯데아이몰][오뚜기][오뚜기] 진라면(매운맛) 40봉	식품>가공식품>라면>봉지라면	20620	0	인터파크	https://shopping-phinf.pstatic.net/main_1445683/14456839003.jpg
+NS14456839005	MALL	[롯데아이몰][오뚜기][오뚜기] 진라면(매운맛) 20봉	식품>가공식품>라면>봉지라면	11790	0	인터파크	https://shopping-phinf.pstatic.net/main_1445683/14456839005.jpg
+NS14457896611	MALL	BBBBB-6674_오뚜기 봉지라면 진라면 매운맛 120g 40개_	식품>가공식품>라면>봉지라면	30300	2500	쥬디의종합쇼핑몰	https://shopping-phinf.pstatic.net/main_1445789/14457896611.jpg
+NS14458405073	MALL	BS 120g 40개 오뚜기 진라면 매운맛 B144135	식품>가공식품>라면>봉지라면	32220	2500	빅세일샵	https://shopping-phinf.pstatic.net/main_1445840/14458405073.jpg
+NS14459548571	MALL	[롯데아이몰][오뚜기][오뚜기]진라면매운맛 120gX10개입	식품>가공식품>라면>봉지라면	4800	2500	인터파크	https://shopping-phinf.pstatic.net/main_1445954/14459548571.jpg
+NS14504112763	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	27030	0	인터파크	https://shopping-phinf.pstatic.net/main_1450411/14504112763.jpg
+NS14507375210	MALL	진라면 매운맛 5봉  - [비오는날]초간편 감자전/김치전믹스外	식품>가공식품>라면>봉지라면	2250	2500	티몬	https://shopping-phinf.pstatic.net/main_1450737/14507375210.jpg
+NS14528207335	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	26000	2500	인터파크	https://shopping-phinf.pstatic.net/main_1452820/14528207335.jpg
+NS14560787885	MALL	오뚜기진라면매운맛 1개  - ★파격할인 263종★마음 껏 골라담으세요!라면 190원~컵라면 290원~	식품>가공식품>라면>봉지라면	500	2500	티몬	https://shopping-phinf.pstatic.net/main_1456078/14560787885.jpg
+NS14563188985	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스) 라면	식품>가공식품>라면>봉지라면	25170	2500	인터파크	https://shopping-phinf.pstatic.net/main_1456318/14563188985.jpg
+NS14573343854	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	23750	2500	인터파크	https://shopping-phinf.pstatic.net/main_1457334/14573343854.jpg
+NS14593421839	MALL	오뚜기 진라면 매운맛 120g x 5개입	식품>가공식품>라면>봉지라면	3390	2500	인터파크	https://shopping-phinf.pstatic.net/main_1459342/14593421839.jpg
+NS14604309183	MALL	진라면 매운맛 5봉 1팩 봉지라면/박스라면/멀티팩/라	식품>가공식품>라면>봉지라면	6320	2500	인터파크	https://shopping-phinf.pstatic.net/main_1460430/14604309183.jpg
+NS14629875081	MALL	오뚜기 진라면(매) 120g 40입 무료배송	식품>가공식품>라면>봉지라면	20630	0	인터파크	https://shopping-phinf.pstatic.net/main_1462987/14629875081.jpg
+NS14635789676	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	29810	0	인터파크	https://shopping-phinf.pstatic.net/main_1463578/14635789676.jpg
+NS14636664674	MALL	오뚜기 진라면 매운맛 멀티팩 120g x 5입	식품>가공식품>라면>봉지라면	2250	2500	인터파크	https://shopping-phinf.pstatic.net/main_1463666/14636664674.jpg
+NS14654962510	MALL	오뚜기 진라면 매운맛 120g x 5개입.	식품>가공식품>라면>봉지라면	3410	2500	인터파크	https://shopping-phinf.pstatic.net/main_1465496/14654962510.jpg
+NS14660272887	MALL	오뚜기 진라면 매운맛 5개입 멀티팩	식품>가공식품>라면>봉지라면	2300	2500	11번가	https://shopping-phinf.pstatic.net/main_1466027/14660272887.jpg
+NS14660839817	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스) 라면	식품>가공식품>라면>봉지라면	28750	0	인터파크	https://shopping-phinf.pstatic.net/main_1466083/14660839817.jpg
+NS14661160902	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스) 라면	식품>가공식품>라면>봉지라면	28760	0	인터파크	https://shopping-phinf.pstatic.net/main_1466116/14661160902.jpg
+NS5610674822	MALL	오뚜기_진라면매운맛_120G*5입	식품>가공식품>라면>봉지라면	2750	3000	홈플러스	https://shopping-phinf.pstatic.net/main_5610674/5610674822.3.jpg
+NS5622688677	MALL	오뚜기 진라면 매운맛 5개입 멀티팩 8개입 BOX 내벗	식품>가공식품>라면>봉지라면	18850	0	옥션	https://shopping-phinf.pstatic.net/main_5622688/5622688677.2.jpg
+NS5622688679	MALL	오뚜기 진라면 매운맛 5개입 멀티팩 내벗	식품>가공식품>라면>봉지라면	2390	2500	옥션	https://shopping-phinf.pstatic.net/main_5622688/5622688679.2.jpg
+NS5639784227	MALL	진라면 오뚜기 진라면 멀티 120gx5개입/매운맛/너구리/신라면	식품>가공식품>라면>봉지라면	2900	2500	G마켓	https://shopping-phinf.pstatic.net/main_5639784/5639784227.2.jpg
+NS5639798194	MALL	오뚜기 진라면 멀티 120gx5개입/매운맛/너구리/신라면	식품>가공식품>라면>봉지라면	2610	2500	11번가	https://shopping-phinf.pstatic.net/main_5639798/5639798194.2.jpg
+NS5639884150	MALL	큐마트솔루션 오뚜기 진라면 멀티 120gx5개입/매운맛/너구리/신라면	식품>가공식품>라면>봉지라면	2440	2500	옥션	https://shopping-phinf.pstatic.net/main_5639884/5639884150.3.jpg
+NS5642043453	MALL	오뚜기 진라면 매운맛 5개입 멀티팩 8개입 BOX 내벗	식품>가공식품>라면>봉지라면	18850	0	G마켓	https://shopping-phinf.pstatic.net/main_5642043/5642043453.2.jpg
+NS5642066358	MALL	오뚜기 진라면 매운맛 5개입 멀티팩 내벗	식품>가공식품>라면>봉지라면	2380	2500	G마켓	https://shopping-phinf.pstatic.net/main_5642066/5642066358.2.jpg
+NS6276016722	MALL	[오뚜기] 봉지라면 진라면 (40입)/매콤,순한맛 중 택 1	식품>가공식품>라면>봉지라면	25300	0	NS홈쇼핑	https://shopping-phinf.pstatic.net/main_6276016/6276016722.17.jpg
+NS6357454183	MALL	오뚜기 오뚜기 진라면순한맛 5봉지 매운맛 라면 오뚜기라면	식품>가공식품>라면>봉지라면	2800	2500	옥션	https://shopping-phinf.pstatic.net/main_6357454/6357454183.jpg
+NS6481621941	MALL	오뚜기 진라면 매운맛 5개입 멀티팩 내벗	식품>가공식품>라면>봉지라면	2680	2500	내벗스토어	https://shopping-phinf.pstatic.net/main_6481621/6481621941.3.jpg
+NS6481621980	MALL	오뚜기 진라면 매운맛 5개입 멀티팩 8개입 BOX 내벗	식품>가공식품>라면>봉지라면	20900	0	내벗스토어	https://shopping-phinf.pstatic.net/main_6481621/6481621980.3.jpg
+NS6702321855	MALL	오뚜기 진라면 매운맛 120g*5개	식품>가공식품>라면>봉지라면	2750	3000	메가마트몰	https://shopping-phinf.pstatic.net/main_6702321/6702321855.5.jpg
+NS6711900379	MALL	오뚜기 진라면 멀티(5개입) 매운맛	식품>가공식품>라면>봉지라면	3000	2500	큐마트솔루션	https://shopping-phinf.pstatic.net/main_6711900/6711900379.1.jpg
+NS6764371939	MALL	진라면매운맛멀티(720*5)	식품>가공식품>라면>봉지라면	2750	3000	과자마켓	https://shopping-phinf.pstatic.net/main_6764371/6764371939.jpg
+NS6975693664	MALL	오뚜기 진라면 멀티 120gx5개입/매운맛/너구리/신라면	식품>가공식품>라면>봉지라면	2900	2500	큐마트솔루션	https://shopping-phinf.pstatic.net/main_6975693/6975693664.3.jpg
+NS6993888833	MALL	오뚜기 진라면 매운맛 5개입 멀티팩 내벗	식품>가공식품>라면>봉지라면	2530	2500	인터파크	https://shopping-phinf.pstatic.net/main_6993888/6993888833.1.jpg
+NS7012483117	MALL	[대용량]진라면 업소용 매운맛 120gX30개/업소용쇠고기라면 생면사리 대용량라면 진라면 라면사리 사리면 라면스프 식자재	식품>가공식품>라면>봉지라면	11900	2500	미스터푸드	https://shopping-phinf.pstatic.net/main_7012483/7012483117.2.jpg
+NS7013152910	MALL	[봉지라면] 오뚜기 진라면 매운맛 멀티5입팩 1개	식품>가공식품>라면>봉지라면	2800	3000	엘마트	https://shopping-phinf.pstatic.net/main_7013152/7013152910.jpg
+NS7032677318	MALL	진라면 멀티 40개입 매운맛  순한맛	식품>가공식품>라면>봉지라면	17750	0	옥션	https://shopping-phinf.pstatic.net/main_7032677/7032677318.1.jpg
+NS7102422444	MALL	진라면 [대용량]진라면 업소용 매운맛 120gX30개/업소용라면 대용량라면 진라면 라면사리 사리면 라면스프 식자재	식품>가공식품>라면>봉지라면	11890	2500	G마켓	https://shopping-phinf.pstatic.net/main_7102422/7102422444.2.jpg
+NS7191651013	MALL	[봉지라면] 오뚜기 진라면 매운맛  120g 1개	식품>가공식품>라면>봉지라면	450	3500	엘마트	https://shopping-phinf.pstatic.net/main_7191651/7191651013.jpg
+NS7207488285	MALL	오뚜기 진라면 매운맛멀티팩 1BOX	식품>가공식품>라면>봉지라면	23900	0	디씨커피	https://shopping-phinf.pstatic.net/main_7207488/7207488285.jpg
+NS7268847431	MALL	오뚜기 진라면 순한맛/매운맛5개입/진라면소컵6개/농심컵라면	식품>가공식품>라면>봉지라면	2120	2500	옥션	https://shopping-phinf.pstatic.net/main_7268847/7268847431.3.jpg
+NS7366713988	MALL	오뚜기 진라면 매운맛 120g*5개입	식품>가공식품>라면>봉지라면	2700	2500	NH마켓	https://shopping-phinf.pstatic.net/main_7366713/7366713988.jpg
+NS7372409024	MALL	오뚜기 진라면 매운맛 순한맛 멀티팩 (5입)	식품>가공식품>라면>봉지라면	3200	2500	11번가	https://shopping-phinf.pstatic.net/main_7372409/7372409024.2.jpg
+NS7376762406	MALL	[오뚜기] 진라면 매운맛 120g(5+1입)	식품>가공식품>라면>봉지라면	2695	3000	이마트몰	https://shopping-phinf.pstatic.net/main_7376762/7376762406.4.jpg
+NS7381602272	MALL	오뚜기 오뚜기 진라면 매운맛 순한맛 멀티팩 (5입)	식품>가공식품>라면>봉지라면	3550	2500	옥션	https://shopping-phinf.pstatic.net/main_7381602/7381602272.1.jpg
+NS7398287381	MALL	오뚜기 오뚜기 진라면 매운맛 순한맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3550	2500	G마켓	https://shopping-phinf.pstatic.net/main_7398287/7398287381.1.jpg
+NS7412913888	MALL	[오뚜기] 진라면 매운맛 120g(5+1입)	식품>가공식품>라면>봉지라면	2723	3000	SSG닷컴	https://shopping-phinf.pstatic.net/main_7412913/7412913888.3.jpg
+NS7431796077	MALL	[오뚜기] 진라면 매콤한맛 봉지면 (20입)//무료배송/라면/컵라면/농심/오뚜기/삼양/팔	식품>가공식품>라면>봉지라면	12090	0	옥션	https://shopping-phinf.pstatic.net/main_7431796/7431796077.jpg
+NS7431850232	MALL	[오뚜기] 진라면 매콤한맛 봉지면 (40입)//무료배송/라면/컵라면/농심/오뚜기/삼양/팔	식품>가공식품>라면>봉지라면	22570	0	옥션	https://shopping-phinf.pstatic.net/main_7431850/7431850232.jpg
+NS7431851592	MALL	[오뚜기] 진라면 매콤한맛 봉지면 (30입)//무료배송/라면/컵라면/농심/오뚜기/삼양/팔	식품>가공식품>라면>봉지라면	16600	0	옥션	https://shopping-phinf.pstatic.net/main_7431851/7431851592.jpg
+NS7432379023	MALL	[오뚜기] 진라면 매콤한맛 봉지면 (40입)//무료배송/라면/컵라면/농심/오뚜기/삼양/팔도	식품>가공식품>라면>봉지라면	23310	0	11번가	https://shopping-phinf.pstatic.net/main_7432379/7432379023.1.jpg
+NS7432379502	MALL	[오뚜기] 진라면 매콤한맛 봉지면 (20입)//무료배송/라면/컵라면/농심/오뚜기/삼양/팔도	식품>가공식품>라면>봉지라면	12690	0	11번가	https://shopping-phinf.pstatic.net/main_7432379/7432379502.1.jpg
+NS7446361801	MALL	[Z1][최신제조/무료배송]오뚜기 오뚜기진라면(매운)멀티40개 8개/박스판매/오뚜기라면/봉지라면/라면	식품>가공식품>라면>봉지라면	27890	0	테르지쟌느	https://shopping-phinf.pstatic.net/main_7446361/7446361801.1.jpg
+NS7477808126	MALL	오뚜기 진라면/김치라면 120g 1개	식품>가공식품>라면>봉지라면	500	2500	푸드앤맘	https://shopping-phinf.pstatic.net/main_7477808/7477808126.3.jpg
+NS7492717291	MALL	오뚜기 오뚜기 진라면 업소용 매운맛 120g X 30개 1박스	식품>가공식품>라면>봉지라면	14700	0	옥션	https://shopping-phinf.pstatic.net/main_7492717/7492717291.1.jpg
+NS7497783839	MALL	오뚜기 오뚜기 진라면 업소용 매운맛 120g X 30개 1박스	식품>가공식품>라면>봉지라면	14700	0	G마켓	https://shopping-phinf.pstatic.net/main_7497783/7497783839.1.jpg
+NS7511809178	MALL	오뚜기 진라면 업소용 매운맛 120g X 30개 1박스	식품>가공식품>라면>봉지라면	14260	0	인터파크	https://shopping-phinf.pstatic.net/main_7511809/7511809178.2.jpg
+NS7516554332	MALL	오뚜기 오뚜기 진라면 20봉	식품>가공식품>라면>봉지라면	9790	2500	옥션	https://shopping-phinf.pstatic.net/main_7516554/7516554332.jpg
+NS7526823689	MALL	미스터푸드 오뚜기 진라면 업소용 매운맛 120gX30개 미스터푸드	식품>가공식품>라면>봉지라면	11900	2500	옥션	https://shopping-phinf.pstatic.net/main_7526823/7526823689.1.jpg
+NS7553253309	MALL	(추천)박스/진라면(매운)멀티(40ea)	식품>가공식품>라면>봉지라면	33560	2500	옥션	https://shopping-phinf.pstatic.net/main_7553253/7553253309.jpg
+NS7553305197	MALL	오뚜기 박스/진라면(매운)멀티(40ea)	식품>가공식품>라면>봉지라면	33570	2500	G마켓	https://shopping-phinf.pstatic.net/main_7553305/7553305197.jpg
+NS7553332698	MALL	(추천)진라면(매운맛)X5입/오뚜기	식품>가공식품>라면>봉지라면	4750	2500	옥션	https://shopping-phinf.pstatic.net/main_7553332/7553332698.jpg
+NS7590993929	MALL	[원하프]진라면(매운맛)120gX5/오뚜기[고객만족!총알배송!]	식품>가공식품>라면>봉지라면	2890	3000	11번가	https://shopping-phinf.pstatic.net/main_7590993/7590993929.1.jpg
+NS7672591874	MALL	오뚜기 진라면 [매운맛] 40봉 (1박스) 진짬뽕 참깨	식품>가공식품>라면>봉지라면	18670	0	인터파크	https://shopping-phinf.pstatic.net/main_7672591/7672591874.jpg
+NS7714556855	MALL	오뚜기 오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3560	2500	G마켓	https://shopping-phinf.pstatic.net/main_7714556/7714556855.jpg
+NS7789390975	MALL	오뚜기 진라면 매운맛 120G*5입	식품>가공식품>라면>봉지라면	2290	2500	롯데슈퍼	https://shopping-phinf.pstatic.net/main_7789390/7789390975.jpg
+NS7808450873	MALL	오뚜기 진라면(매운맛 or 순한맛) 40봉	식품>가공식품>라면>봉지라면	19570	0	옥션	https://shopping-phinf.pstatic.net/main_7808450/7808450873.jpg
+NS7808511507	MALL	진라면 오뚜기 진라면(매운맛 or 순한맛) 40봉	식품>가공식품>라면>봉지라면	19570	0	G마켓	https://shopping-phinf.pstatic.net/main_7808511/7808511507.jpg
+NS7824274676	MALL	오뚜기 진라면(매운맛) 20봉	식품>가공식품>라면>봉지라면	12900	0	에코그린	https://shopping-phinf.pstatic.net/main_7824274/7824274676.1.jpg
+NS7824275949	MALL	오뚜기 진라면(매운맛) 40봉	식품>가공식품>라면>봉지라면	22900	0	에코그린	https://shopping-phinf.pstatic.net/main_7824275/7824275949.1.jpg
+NS7888768633	MALL	오뚜기 진라면매운맛150gx5개입	식품>가공식품>라면>봉지라면	2700	3000	과자몰	https://shopping-phinf.pstatic.net/main_7888768/7888768633.1.jpg
+NS7939855130	MALL	오뚜기 진라면 업소용 매운맛 120g X 30개 1박스	식품>가공식품>라면>봉지라면	14700	0	11번가	https://shopping-phinf.pstatic.net/main_7939855/7939855130.jpg
+NS7946495132	MALL	오뚜기 [오뚜기]진라면순한맛 120gX10개입+매운맛 120gX10개입	식품>가공식품>라면>봉지라면	11870	0	롯데아이몰	https://shopping-phinf.pstatic.net/main_7946495/7946495132.4.jpg
+NS7953516847	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개)x8팩 / 총40봉지/오뚜기,진라면,매운맛,봉지라면,멀티팩	식품>가공식품>라면>봉지라면	25900	0	IJSHOP	https://shopping-phinf.pstatic.net/main_7953516/7953516847.jpg
+NS7994807887	MALL	오뚜기 진라면1box(5개입x8팩)총40개/매운맛/봉지면/	식품>가공식품>라면>봉지라면	22600	2500	옥션	https://shopping-phinf.pstatic.net/main_7994807/7994807887.jpg
+NS7994810707	MALL	오뚜기 진라면1box(5개입x8팩)총40개/매운맛/봉지면/	식품>가공식품>라면>봉지라면	22600	2500	G마켓	https://shopping-phinf.pstatic.net/main_7994810/7994810707.jpg
+NS7994829733	MALL	[오뚜기]진라면1box(5개입x8팩)총40개/매운맛/봉지면/간식/스낵면/신라면 (오뚜기)	식품>가공식품>라면>봉지라면	20250	2500	11번가	https://shopping-phinf.pstatic.net/main_7994829/7994829733.jpg
+NS80012590701	MALL	[고든스토어] 오뚜기 진라면 매운맛 멀티팩(120gx5입)	식품>가공식품>라면>봉지라면	2750	2500	고든스토어	https://shopping-phinf.pstatic.net/main_8001259/80012590701.1.jpg
+NS80020358585	MALL	오뚜기 진라면 매운맛 120g 5+1입/진라면 멀티 48봉/진라면순한맛	식품>가공식품>라면>봉지라면	20000	0	할인천국	https://shopping-phinf.pstatic.net/main_8002035/80020358585.jpg
+NS80100996687	MALL	오뚜기 진라면 매운맛 멀티 120g 5입	식품>가공식품>라면>봉지라면	2230	2500	조양마트	https://shopping-phinf.pstatic.net/main_8010099/80100996687.2.jpg
+NS80206712851	MALL	오뚜기 진라면 매운맛/순한맛 48봉 1박스	식품>가공식품>라면>봉지라면	19500	2500	빅카트	https://shopping-phinf.pstatic.net/main_8020671/80206712851.jpg
+NS8044736727	MALL	오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3240	2500	11번가	https://shopping-phinf.pstatic.net/main_8044736/8044736727.jpg
+NS8044751943	MALL	오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3590	2500	옥션	https://shopping-phinf.pstatic.net/main_8044751/8044751943.jpg
+NS80459610088	MALL	오뚜기 진라면 매운맛 120g 40개 F1501935	식품>가공식품>라면>봉지라면	28850	2500	W-mall	https://shopping-phinf.pstatic.net/main_8045961/80459610088.jpg
+NS80460546381	MALL	오뚜기 진라면 매운맛 120g x 5입 멀티팩	식품>가공식품>라면>봉지라면	3770	2500	비투씨몰	https://shopping-phinf.pstatic.net/main_8046054/80460546381.jpg
+NS80474594047	MALL	[무료배송] 오뚜기 진라면 매운맛 120g x 5입 멀티팩	식품>가공식품>라면>봉지라면	7230	0	누비마켓	https://shopping-phinf.pstatic.net/main_8047459/80474594047.jpg
+NS8051372217	MALL	진라면 오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3590	2500	G마켓	https://shopping-phinf.pstatic.net/main_8051372/8051372217.jpg
+NS80537246140	MALL	오뚜기 진라면 매운맛 120g 봉지라면	식품>가공식품>라면>봉지라면	500	2500	e리빙	https://shopping-phinf.pstatic.net/main_8053724/80537246140.jpg
+NS80603266058	MALL	오뚜기 진라면매운맛 5입	식품>가공식품>라면>봉지라면	2860	2500	세이브존 광명점	https://shopping-phinf.pstatic.net/main_8060326/80603266058.jpg
+NS8064382930	MALL	오뚜기 쪽빛누리 오뚜기 진라면 매운맛 멀티팩 (120GX5입)	식품>가공식품>라면>봉지라면	2230	2500	옥션	https://shopping-phinf.pstatic.net/main_8064382/8064382930.jpg
+NS8064415672	MALL	진라면 쪽빛누리 오뚜기 진라면 매운맛 멀티팩 (120GX5입)	식품>가공식품>라면>봉지라면	2200	2500	G마켓	https://shopping-phinf.pstatic.net/main_8064415/8064415672.jpg
+NS8067932610	MALL	진라면매운맛 5개입	식품>가공식품>라면>봉지라면	3200	2500	디알마트	https://shopping-phinf.pstatic.net/main_8067932/8067932610.jpg
+NS8070227992	MALL	오뚜기 진라면 매운맛 5개입 봉지 라면	식품>가공식품>라면>봉지라면	2350	2500	커피몰	https://shopping-phinf.pstatic.net/main_8070227/8070227992.1.jpg
+NS8078672650	MALL	오뚜기 무료배송 오뚜기 진라면 매운맛 멀티팩((120GX5)X8입)	식품>가공식품>라면>봉지라면	19570	0	옥션	https://shopping-phinf.pstatic.net/main_8078672/8078672650.jpg
+NS8078696048	MALL	진라면 무료배송 오뚜기 진라면 매운맛 멀티팩((120GX5)X8입)	식품>가공식품>라면>봉지라면	19570	0	G마켓	https://shopping-phinf.pstatic.net/main_8078696/8078696048.jpg
+NS8084403695	MALL	오뚜기 진라면 매운맛 120g 5봉멀티 라면	식품>가공식품>라면>봉지라면	2250	2500	인터파크	https://shopping-phinf.pstatic.net/main_8084403/8084403695.jpg
+NS8092739818	MALL	오뚜기 진라면 120g	식품>가공식품>라면>봉지라면	540	2500	더싼닷컴	https://shopping-phinf.pstatic.net/main_8092739/8092739818.3.jpg
+NS8100481569	MALL	원하프] 박스/오뚜기진라면(매운)멀티40ea [고객만족 총알배송	식품>가공식품>라면>봉지라면	26880	3000	원하프	https://shopping-phinf.pstatic.net/main_8100481/8100481569.1.jpg
+NS8100670090	MALL	원하프] 진라면(매운맛)120gX5/오뚜기 [고객만족 총알배송	식품>가공식품>라면>봉지라면	3750	3000	원하프	https://shopping-phinf.pstatic.net/main_8100670/8100670090.1.jpg
+NS8123883116	MALL	오뚜기 오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3090	2500	옥션	https://shopping-phinf.pstatic.net/main_8123883/8123883116.jpg
+NS8135115883	MALL	오뚜기 진라면 매운맛 120g 봉지 10개입 1박스	식품>가공식품>라면>봉지라면	5980	2500	패스트몰 스토어	https://shopping-phinf.pstatic.net/main_8135115/8135115883.3.jpg
+NS8135115906	MALL	오뚜기 진라면 매운맛 120g 봉지 20개입 1박스	식품>가공식품>라면>봉지라면	11960	2500	패스트몰 스토어	https://shopping-phinf.pstatic.net/main_8135115/8135115906.2.jpg
+NS8135115929	MALL	오뚜기 진라면 매운맛 120g 봉지 30개입 1박스	식품>가공식품>라면>봉지라면	18900	0	패스트몰 스토어	https://shopping-phinf.pstatic.net/main_8135115/8135115929.2.jpg
+NS8135146842	MALL	오뚜기 진라면 매운맛 멀티팩(5개 X 8묶음 40개)1박스	식품>가공식품>라면>봉지라면	24000	0	패스트몰 스토어	https://shopping-phinf.pstatic.net/main_8135146/8135146842.3.jpg
+NS8135184855	MALL	오뚜기 진라면 매운맛 멀티팩(5개 X 8묶음 40개)1박스	식품>가공식품>라면>봉지라면	24000	0	11번가	https://shopping-phinf.pstatic.net/main_8135184/8135184855.1.jpg
+NS8135185561	MALL	오뚜기 진라면 매운맛 120g 봉지 10개입 1박스	식품>가공식품>라면>봉지라면	5980	2500	11번가	https://shopping-phinf.pstatic.net/main_8135185/8135185561.2.jpg
+NS8135187324	MALL	오뚜기 진라면 매운맛 120g 봉지 30개입 1박스	식품>가공식품>라면>봉지라면	18900	0	11번가	https://shopping-phinf.pstatic.net/main_8135187/8135187324.1.jpg
+NS8135187902	MALL	오뚜기 진라면 매운맛 120g 봉지 20개입 1박스	식품>가공식품>라면>봉지라면	11960	2500	11번가	https://shopping-phinf.pstatic.net/main_8135187/8135187902.1.jpg
+NS8135402783	MALL	오뚜기 진라면 매운맛 120g 봉지 30개입 1박스	식품>가공식품>라면>봉지라면	17000	0	패스트몰	https://shopping-phinf.pstatic.net/main_8135402/8135402783.1.jpg
+NS8135402784	MALL	오뚜기 진라면 매운맛 120g 봉지 20개입 1박스	식품>가공식품>라면>봉지라면	11440	2500	패스트몰	https://shopping-phinf.pstatic.net/main_8135402/8135402784.1.jpg
+NS8135402785	MALL	오뚜기 진라면 매운맛 120g 봉지 10개입 1박스	식품>가공식품>라면>봉지라면	5720	2500	패스트몰	https://shopping-phinf.pstatic.net/main_8135402/8135402785.2.jpg
+NS8135402787	MALL	오뚜기 진라면 매운맛 멀티팩(5개 X 8묶음 40개)1박스	식품>가공식품>라면>봉지라면	21300	0	패스트몰	https://shopping-phinf.pstatic.net/main_8135402/8135402787.1.jpg
+NS8136123595	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지 20개입 1박스	식품>가공식품>라면>봉지라면	11960	2500	G마켓	https://shopping-phinf.pstatic.net/main_8136123/8136123595.1.jpg
+NS8136149730	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지 10개입 1박스	식품>가공식품>라면>봉지라면	5980	2500	옥션	https://shopping-phinf.pstatic.net/main_8136149/8136149730.2.jpg
+NS8136183966	MALL	오뚜기 오뚜기 진라면 매운맛 멀티팩(5개 X 8묶음 40개)1박스	식품>가공식품>라면>봉지라면	24000	0	G마켓	https://shopping-phinf.pstatic.net/main_8136183/8136183966.1.jpg
+NS8136186986	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지 30개입 1박스	식품>가공식품>라면>봉지라면	18900	0	옥션	https://shopping-phinf.pstatic.net/main_8136186/8136186986.1.jpg
+NS8136217311	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지 20개입 1박스	식품>가공식품>라면>봉지라면	11960	2500	옥션	https://shopping-phinf.pstatic.net/main_8136217/8136217311.1.jpg
+NS8136217457	MALL	오뚜기 오뚜기 진라면 매운맛 멀티팩(5개 X 8묶음 40개)1박스	식품>가공식품>라면>봉지라면	24000	0	옥션	https://shopping-phinf.pstatic.net/main_8136217/8136217457.1.jpg
+NS8136242101	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지 10개입 1박스	식품>가공식품>라면>봉지라면	5980	2500	G마켓	https://shopping-phinf.pstatic.net/main_8136242/8136242101.2.jpg
+NS8136249488	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지 30개입 1박스	식품>가공식품>라면>봉지라면	18900	0	G마켓	https://shopping-phinf.pstatic.net/main_8136249/8136249488.1.jpg
+NS8146409422	MALL	오뚜기 진라면 매운맛 멀티팩(5개 X 8묶음 40개)1박스	식품>가공식품>라면>봉지라면	23210	0	인터파크	https://shopping-phinf.pstatic.net/main_8146409/8146409422.1.jpg
+NS8146426136	MALL	오뚜기 진라면 매운맛 120g 봉지 20개입 1박스	식품>가공식품>라면>봉지라면	11570	2500	인터파크	https://shopping-phinf.pstatic.net/main_8146426/8146426136.1.jpg
+NS8146469877	MALL	오뚜기 진라면 매운맛 120g 봉지 30개입 1박스	식품>가공식품>라면>봉지라면	18340	0	인터파크	https://shopping-phinf.pstatic.net/main_8146469/8146469877.1.jpg
+NS8146498961	MALL	오뚜기 진라면 매운맛 120g 봉지 10개입 1박스	식품>가공식품>라면>봉지라면	5810	2500	인터파크	https://shopping-phinf.pstatic.net/main_8146498/8146498961.1.jpg
+NS8154536483	MALL	오뚜기 진라면 매운맛 순한맛 멀티팩 (5입)	식품>가공식품>라면>봉지라면	3040	2500	11번가	https://shopping-phinf.pstatic.net/main_8154536/8154536483.jpg
+NS8174438230	MALL	[메가마트] 오뚜기 진라면 매운맛 120g*5개	식품>가공식품>라면>봉지라면	2590	2500	11번가	https://shopping-phinf.pstatic.net/main_8174438/8174438230.12.jpg
+NS8174475079	MALL	[코스트코] 오뚜기 진라면 플러스 매운맛 120g x 30개	식품>가공식품>라면>봉지라면	14750	2500	11번가	https://shopping-phinf.pstatic.net/main_8174475/8174475079.2.jpg
+NS8201597328	MALL	오뚜기/진라면/매운맛/120gx20입/1Box/박스/봉지/라면	식품>가공식품>라면>봉지라면	15900	3000	아이온샵	https://shopping-phinf.pstatic.net/main_8201597/8201597328.1.jpg
+NS8205059533	MALL	원하프]진라면(매운맛)120gX5/오뚜기[고객만족-총알배송	식품>가공식품>라면>봉지라면	3680	3000	NH마켓	https://shopping-phinf.pstatic.net/main_8205059/8205059533.jpg
+NS8205060924	MALL	원하프]박스/오뚜기진라면(매운)멀티40ea[고객만족-총알배송	식품>가공식품>라면>봉지라면	26350	3000	NH마켓	https://shopping-phinf.pstatic.net/main_8205060/8205060924.jpg
+NS8215790024	MALL	쪽빛누리 오뚜기 진라면 매운맛 멀티팩 (120GX5입)	식품>가공식품>라면>봉지라면	2790	2500	11번가	https://shopping-phinf.pstatic.net/main_8215790/8215790024.jpg
+NS8215794130	MALL	쪽빛누리 오뚜기 진라면 매운맛 멀티팩((120GX5)X8입)	식품>가공식품>라면>봉지라면	20120	2500	11번가	https://shopping-phinf.pstatic.net/main_8215794/8215794130.jpg
+NS8222199699	MALL	쪽빛누리 오뚜기 진라면 매운맛 멀티팩((120GX5)X8입)	식품>가공식품>라면>봉지라면	19830	2500	인터파크	https://shopping-phinf.pstatic.net/main_8222199/8222199699.jpg
+NS8222216707	MALL	쪽빛누리 오뚜기 진라면 매운맛 멀티팩 (120GX5입)	식품>가공식품>라면>봉지라면	2750	2500	인터파크	https://shopping-phinf.pstatic.net/main_8222216/8222216707.jpg
+NS8253372152	MALL	오뚜기 진라면매운맛(멀티팩)120gX40입 1BOX/봉지라면	식품>가공식품>라면>봉지라면	26800	3500	마켓포유	https://shopping-phinf.pstatic.net/main_8253372/8253372152.jpg
+NS8255237688	MALL	오뚜기 진라면 매운맛 120g*40개	식품>가공식품>라면>봉지라면	380	2500	위메프	https://shopping-phinf.pstatic.net/main_8255237/8255237688.jpg
+NS8260906424	MALL	오뚜기 오뚜기/진라면/매운맛/120gx20입/1Box/박스/봉지/라면	식품>가공식품>라면>봉지라면	9510	3000	옥션	https://shopping-phinf.pstatic.net/main_8260906/8260906424.jpg
+NS8260964197	MALL	진라면 오뚜기/진라면/매운맛/120gx20입/1Box/박스/봉지/라면	식품>가공식품>라면>봉지라면	9510	3000	G마켓	https://shopping-phinf.pstatic.net/main_8260964/8260964197.jpg
+NS8264882095	MALL	진라면 오뚜기 진라면 매운맛/순한맛/120gx20봉/참깨라면	식품>가공식품>라면>봉지라면	11300	0	G마켓	https://shopping-phinf.pstatic.net/main_8264882/8264882095.jpg
+NS8312312253	MALL	진라면 천일유통 진라면 매운맛 40봉/신라면/너구리/진라면	식품>가공식품>라면>봉지라면	20000	2500	G마켓	https://shopping-phinf.pstatic.net/main_8312312/8312312253.jpg
+NS8312317292	MALL	천일유통 진라면 매운맛 40봉/신라면/너구리/진라면	식품>가공식품>라면>봉지라면	20000	2500	옥션	https://shopping-phinf.pstatic.net/main_8312317/8312317292.jpg
+NS8312418517	MALL	[천일유통] 진라면 매운맛 40봉/진라면/스낵면/신라면/컵라면/짜파게티/너구리/라면/열라면/비빔면	식품>가공식품>라면>봉지라면	19600	2500	천일푸드	https://shopping-phinf.pstatic.net/main_8312418/8312418517.1.jpg
+NS8316656606	MALL	[천일유통] 진라면 매운맛 40봉/라면/컵라면/진라면	식품>가공식품>라면>봉지라면	17780	2500	인터파크	https://shopping-phinf.pstatic.net/main_8316656/8316656606.jpg
+NS8332624778	MALL	오뚜기 [오뚜기] 진라면(매운맛) 40봉	식품>가공식품>라면>봉지라면	20830	0	롯데아이몰	https://shopping-phinf.pstatic.net/main_8332624/8332624778.jpg
+NS8340569191	MALL	오뚜기 진라면 플러스 매운맛 1박스(30봉)/진라면한박	식품>가공식품>라면>봉지라면	16900	2500	11번가	https://shopping-phinf.pstatic.net/main_8340569/8340569191.1.jpg
+NS8349500318	MALL	오뚜기 오뚜기 진라면 플러스 매운맛 1박스(30봉)/진라면한박	식품>가공식품>라면>봉지라면	16900	2500	G마켓	https://shopping-phinf.pstatic.net/main_8349500/8349500318.1.jpg
+NS8377862040	MALL	오뚜기 오뚜기 진라면 플러스 매운맛 1박스(30봉)/진라면한박	식품>가공식품>라면>봉지라면	16900	2500	옥션	https://shopping-phinf.pstatic.net/main_8377862/8377862040.2.jpg
+NS8409125721	MALL	오뚜기 오뚜기 진라면(매콤한맛/순한맛 중 택1) 봉지면 (40입)/무료배송	식품>가공식품>라면>봉지라면	27490	0	옥션	https://shopping-phinf.pstatic.net/main_8409125/8409125721.2.jpg
+NS8409125969	MALL	오뚜기 오뚜기 진라면(순한맛/매콤한맛 중 택1) 봉지면(30입)/무료배송	식품>가공식품>라면>봉지라면	20500	0	옥션	https://shopping-phinf.pstatic.net/main_8409125/8409125969.2.jpg
+NS8411297780	MALL	진라면 [오뚜기] 진라면(순한맛/매콤한맛 중 택1) 봉지면(30입)/무료배송/ 오뚜기	식품>가공식품>라면>봉지라면	21670	0	G마켓	https://shopping-phinf.pstatic.net/main_8411297/8411297780.1.jpg
+NS8411320909	MALL	진라면 [오뚜기] 진라면(매콤한맛/순한맛 중 택1) 봉지면 (40입)/무료배송/ 오뚜기	식품>가공식품>라면>봉지라면	27490	0	G마켓	https://shopping-phinf.pstatic.net/main_8411320/8411320909.1.jpg
+NS8411358491	MALL	[오뚜기][오뚜기] 진라면(매콤한맛/순한맛 중 택1) 봉지면 (40입)/무료배송	식품>가공식품>라면>봉지라면	27210	0	롯데닷컴	https://shopping-phinf.pstatic.net/main_8411358/8411358491.4.jpg
+NS8414943911	MALL	[오뚜기] 진라면(매콤한맛/순한맛 중 택1) 봉지면 (40입)/무료배송/ 오뚜기	식품>가공식품>라면>봉지라면	27510	0	11번가	https://shopping-phinf.pstatic.net/main_8414943/8414943911.5.jpg
+NS8466163784	MALL	[오뚜기] 진라면매운맛 120gX10개입	식품>가공식품>라면>봉지라면	5770	2500	GSSHOP	https://shopping-phinf.pstatic.net/main_8466163/8466163784.jpg
+NS8480382746	MALL	[홈플러스][전단상품]오뚜기_진라면매운맛_120Gx5입	식품>가공식품>라면>봉지라면	2480	3000	11번가	https://shopping-phinf.pstatic.net/main_8480382/8480382746.23.jpg
+NS8495323706	MALL	오뚜기 [오뚜기]진라면매운맛 120gX10개입	식품>가공식품>라면>봉지라면	5100	2500	롯데아이몰	https://shopping-phinf.pstatic.net/main_8495323/8495323706.2.jpg
+NS8513417900	MALL	오뚜기 진라면매운맛(멀티팩)120gX40入(1박스)	식품>가공식품>라면>봉지라면	19200	2500	인터파크	https://shopping-phinf.pstatic.net/main_8513417/8513417900.jpg
+NS8531650473	MALL	오뚜기 진라면(매운맛) 20봉	식품>가공식품>라면>봉지라면	11340	0	11번가	https://shopping-phinf.pstatic.net/main_8531650/8531650473.jpg
+NS8532133725	MALL	오뚜기 진라면(매운맛 or 순한맛) 20봉	식품>가공식품>라면>봉지라면	11010	0	옥션	https://shopping-phinf.pstatic.net/main_8532133/8532133725.jpg
+NS8534299381	MALL	진라면 오뚜기 진라면(매운맛 or 순한맛) 20봉	식품>가공식품>라면>봉지라면	11010	0	G마켓	https://shopping-phinf.pstatic.net/main_8534299/8534299381.jpg
+NS8546573182	MALL	오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3600	2500	옥션	https://shopping-phinf.pstatic.net/main_8546573/8546573182.jpg
+NS8549206789	MALL	[오뚜기] 진라면(매운맛) 40봉	식품>가공식품>라면>봉지라면	19550	0	인터파크	https://shopping-phinf.pstatic.net/main_8549206/8549206789.jpg
+NS8549211512	MALL	[오뚜기] 진라면(매운맛) 20봉	식품>가공식품>라면>봉지라면	11200	0	인터파크	https://shopping-phinf.pstatic.net/main_8549211/8549211512.jpg
+NS8549280195	MALL	[오뚜기] 진라면(매운맛) 20봉	식품>가공식품>라면>봉지라면	13400	0	NS홈쇼핑	https://shopping-phinf.pstatic.net/main_8549280/8549280195.1.jpg
+NS8551917637	MALL	진라면 매운맛 멀티팩 (120X5)	식품>가공식품>라면>봉지라면	2400	2500	오뚜기몰	https://shopping-phinf.pstatic.net/main_8551917/8551917637.1.jpg
+NS8569416501	MALL	오뚜기진라면40개	식품>가공식품>라면>봉지라면	18360	0	11번가	https://shopping-phinf.pstatic.net/main_8569416/8569416501.jpg
+NS8597474635	MALL	오뚜기 진라면 매운맛 120g 도매,판매	식품>가공식품>라면>봉지라면	460	2500	도매판매센터	https://shopping-phinf.pstatic.net/main_8597474/8597474635.1.jpg
+NS8638605961	MALL	진라면 오뚜기 진라면 매운맛 40봉 등산 낚시 야식 캠핑 봉지	식품>가공식품>라면>봉지라면	30000	0	G마켓	https://shopping-phinf.pstatic.net/main_8638605/8638605961.1.jpg
+NS8646118775	MALL	오뚜기 진라면매운맛(멀티팩)120gX40입(1BOX) 라면/봉지라면/인스턴트식품/뽀글이 J	식품>가공식품>라면>봉지라면	31230	2500	11번가	https://shopping-phinf.pstatic.net/main_8646118/8646118775.1.jpg
+NS8646154226	MALL	상세페이지참조 오뚜기 진라면매운맛(멀티팩)120gX40입(1	식품>가공식품>라면>봉지라면	31370	2500	G마켓	https://shopping-phinf.pstatic.net/main_8646154/8646154226.jpg
+NS8646510095	MALL	오뚜기 오뚜기 진라면 매운맛 순한맛 멀티팩 (5입)	식품>가공식품>라면>봉지라면	2820	2500	G마켓	https://shopping-phinf.pstatic.net/main_8646510/8646510095.jpg
+NS8649312791	MALL	진라면 오뚜기 진라면 매운맛 멀티팩 (5입)/라면	식품>가공식품>라면>봉지라면	3830	2500	G마켓	https://shopping-phinf.pstatic.net/main_8649312/8649312791.jpg
+NS8651699363	MALL	오뚜기 진라면 매운맛 순한맛 멀티팩 (5입)	식품>가공식품>라면>봉지라면	2970	2500	11번가	https://shopping-phinf.pstatic.net/main_8651699/8651699363.jpg
+NS8651700373	MALL	오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3450	2500	11번가	https://shopping-phinf.pstatic.net/main_8651700/8651700373.jpg
+NS8654869013	MALL	오뚜기 오뚜기 진라면 매운맛 순한맛 멀티팩 (5입)	식품>가공식품>라면>봉지라면	2840	2500	옥션	https://shopping-phinf.pstatic.net/main_8654869/8654869013.jpg
+NS8654871065	MALL	오뚜기 오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3830	2500	옥션	https://shopping-phinf.pstatic.net/main_8654871/8654871065.jpg
+NS8709833299	MALL	오뚜기 진라면 매운맛 120g 봉지라면	식품>가공식품>라면>봉지라면	470	3000	싱싱할인마트	https://shopping-phinf.pstatic.net/main_8709833/8709833299.1.jpg
+NS8709869254	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지라면	식품>가공식품>라면>봉지라면	370	2500	G마켓	https://shopping-phinf.pstatic.net/main_8709869/8709869254.1.jpg
+NS8709902185	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지라면	식품>가공식품>라면>봉지라면	370	2500	옥션	https://shopping-phinf.pstatic.net/main_8709902/8709902185.1.jpg
+NS8733235290	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지라면 20개 무료배송	식품>가공식품>라면>봉지라면	9910	0	G마켓	https://shopping-phinf.pstatic.net/main_8733235/8733235290.jpg
+NS8733276328	MALL	오뚜기 오뚜기 진라면 매운맛 120g 봉지라면 20개 무료배송	식품>가공식품>라면>봉지라면	9910	0	옥션	https://shopping-phinf.pstatic.net/main_8733276/8733276328.jpg
+NS8733295757	MALL	오뚜기 무료배송 오뚜기 진라면 매운맛 120g 봉지라면 40개	식품>가공식품>라면>봉지라면	17850	0	옥션	https://shopping-phinf.pstatic.net/main_8733295/8733295757.1.jpg
+NS8733305195	MALL	오뚜기 무료배송 오뚜기 진라면 매운맛 120g 봉지라면 40개	식품>가공식품>라면>봉지라면	17850	0	G마켓	https://shopping-phinf.pstatic.net/main_8733305/8733305195.jpg
+NS8752577653	MALL	오뚜기 진라면 멀티팩 (5입) 매운맛 순한맛	식품>가공식품>라면>봉지라면	3490	2500	브런치앤맘	https://shopping-phinf.pstatic.net/main_8752577/8752577653.1.jpg
+NS8755700736	MALL	[천일유통] 진라면매운맛5봉/신라면/라면/진라면/컵라면/진라면/짜파게티/사리곰탕/너구리/안성탕면/컵라면	식품>가공식품>라면>봉지라면	2780	2500	11번가	https://shopping-phinf.pstatic.net/main_8755700/8755700736.1.jpg
+NS8771029277	MALL	오뚜기 진라면120g(5봉)/매운맛/순한맛 택1/라면/봉지라면	식품>가공식품>라면>봉지라면	2490	3000	G마켓	https://shopping-phinf.pstatic.net/main_8771029/8771029277.jpg
+NS8793826477	MALL	[대용량]진라면 업소용 매운맛 120gX30개/업소용라면 대용량라면 진라면 라면사리 사리면 미스터푸드	식품>가공식품>라면>봉지라면	10080	2500	11번가	https://shopping-phinf.pstatic.net/main_8793826/8793826477.jpg
+NS8800683116	MALL	박스_오뚜기진라면_매운 멀티 40ea	식품>가공식품>라면>봉지라면	35800	0	방방몰	https://shopping-phinf.pstatic.net/main_8800683/8800683116.1.jpg
+NS8804744618	MALL	진라면(매운맛)120gX5/오뚜기X4ea	식품>가공식품>라면>봉지라면	23000	0	방방몰	https://shopping-phinf.pstatic.net/main_8804744/8804744618.1.jpg
+NS8804955039	MALL	오뚜기 진라면(매운맛)120gX5/오뚜기X4ea	식품>가공식품>라면>봉지라면	23000	0	G마켓	https://shopping-phinf.pstatic.net/main_8804955/8804955039.jpg
+NS8924676159	MALL	오뚜기 진라면 플러스 120g X 30개/순한맛/매운맛/라면	식품>가공식품>라면>봉지라면	15290	2500	코스트코쇼핑몰	https://shopping-phinf.pstatic.net/main_8924676/8924676159.2.jpg
+NS8926249405	MALL	오뚜기 오뚜기 진라면 플러스 120g X 30개/순한맛/매운맛	식품>가공식품>라면>봉지라면	13360	2500	옥션	https://shopping-phinf.pstatic.net/main_8926249/8926249405.1.jpg
+NS8926361684	MALL	오뚜기 진라면 플러스 120g X 30개/순한맛/매운맛	식품>가공식품>라면>봉지라면	13470	2500	G마켓	https://shopping-phinf.pstatic.net/main_8926361/8926361684.1.jpg
+NS8926646981	MALL	오뚜기 진라면 플러스 120g X 30개/순한맛/매운맛	식품>가공식품>라면>봉지라면	15480	2500	11번가	https://shopping-phinf.pstatic.net/main_8926646/8926646981.2.jpg
+NS8927342393	MALL	( 특 가 )오뚜기 진라면매운맛20개 /신라면/비빔면	식품>가공식품>라면>봉지라면	10820	0	11번가	https://shopping-phinf.pstatic.net/main_8927342/8927342393.jpg
+NS8951527904	MALL	오뚜기 진라면 플러스 120g X 30개/순한맛/매운맛	식품>가공식품>라면>봉지라면	13020	2500	인터파크	https://shopping-phinf.pstatic.net/main_8951527/8951527904.jpg
+NS8962908224	MALL	오뚜기 진라면 20봉 매운맛/순한맛	식품>가공식품>라면>봉지라면	11900	0	옥션	https://shopping-phinf.pstatic.net/main_8962908/8962908224.1.jpg
+NS8976056848	MALL	[원하프]박스/오뚜기진라면(매운)멀티40ea	식품>가공식품>라면>봉지라면	22460	-1	바이폴	https://shopping-phinf.pstatic.net/main_8976056/8976056848.jpg
+NS8976056918	MALL	[원하프]진라면(매운맛)120gX5/오뚜기	식품>가공식품>라면>봉지라면	2990	-1	바이폴	https://shopping-phinf.pstatic.net/main_8976056/8976056918.jpg
+NS8977653741	MALL	진라면 120g x 40봉 매운맛/순한맛	식품>가공식품>라면>봉지라면	19800	0	엔씨유통	https://shopping-phinf.pstatic.net/main_8977653/8977653741.3.jpg
+NS9005967400	MALL	오뚜기 진라면 매운맛 멀티팩 1박스 (120g x 40봉지)	식품>가공식품>라면>봉지라면	21800	3000	진주유통	https://shopping-phinf.pstatic.net/main_9005967/9005967400.jpg
+NS9009927317	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개) x8팩 / 총 40봉지	식품>가공식품>라면>봉지라면	22470	0	11번가	https://shopping-phinf.pstatic.net/main_9009927/9009927317.6.jpg
+NS9057574382	MALL	오뚜기 [오뚜기] 진라면(매운맛) 20봉	식품>가공식품>라면>봉지라면	11900	0	롯데아이몰	https://shopping-phinf.pstatic.net/main_9057574/9057574382.1.jpg
+NS9062905049	MALL	진라면 매운맛 멀티 120g 40봉	식품>가공식품>라면>봉지라면	22400	2500	글로리샵	https://shopping-phinf.pstatic.net/main_9062905/9062905049.1.jpg
+NS9071735022	MALL	오뚜기 진라면 매운맛 120GX40 최근제조일 봉지라면 매운라면 컵라면 오뚜기진라면 진라면매운맛 짜파게티 불닭볶음면 안성탕면 신라면 참깨라면 스낵면 짜왕 팔도짜장면	식품>가공식품>라면>봉지라면	23760	0	대인물류	https://shopping-phinf.pstatic.net/main_9071735/9071735022.1.jpg
+NS9073326238	MALL	오뚜기 진라면 매운맛 120GX40 최근제조일 봉지라면 매운라면 컵라면 진라면매운맛 오뚜기진라면 라면	식품>가공식품>라면>봉지라면	21390	0	11번가	https://shopping-phinf.pstatic.net/main_9073326/9073326238.jpg
+NS9074382614	MALL	오뚜기 오뚜기 진라면 (5개) /태성푸드/봉지라면/농심라면	식품>가공식품>라면>봉지라면	2380	2500	옥션	https://shopping-phinf.pstatic.net/main_9074382/9074382614.jpg
+NS9079660179	MALL	[오뚜기] 진라면 (5개) /태성푸드/농심라면/오뚜기라면/팔도라면/삼양라면/컵라면	식품>가공식품>라면>봉지라면	2650	2500	태성푸드1	https://shopping-phinf.pstatic.net/main_9079660/9079660179.1.jpg
+NS9104003090	MALL	[쿠폰할인][도판]오뚜기 진라면 매운맛 120g	식품>가공식품>라면>봉지라면	495	2500	바이폴	https://shopping-phinf.pstatic.net/main_9104003/9104003090.jpg
+NS9104532041	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개) x8팩 / 총 40봉지	식품>가공식품>라면>봉지라면	25575	0	신세계몰	https://shopping-phinf.pstatic.net/main_9104532/9104532041.jpg
+NS9106476319	MALL	진라면 [오뚜기] 진라면 매운맛 멀티팩 (120g x 5개) x8팩 / 총 40봉지	식품>가공식품>라면>봉지라면	25090	0	G마켓	https://shopping-phinf.pstatic.net/main_9106476/9106476319.jpg
+NS9107808482	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개) x8팩 / 총 40봉지	식품>가공식품>라면>봉지라면	25850	0	SSG닷컴	https://shopping-phinf.pstatic.net/main_9107808/9107808482.jpg
+NS9163854932	MALL	오뚜기 (한박스)진라면봉지매운맛120gX20개입	식품>가공식품>라면>봉지라면	10990	2500	옥션	https://shopping-phinf.pstatic.net/main_9163854/9163854932.jpg
+NS9163911507	MALL	(한박스)진라면봉지매운맛120gX20개입	식품>가공식품>라면>봉지라면	10990	2500	G마켓	https://shopping-phinf.pstatic.net/main_9163911/9163911507.jpg
+NS9164332640	MALL	(한박스)진라면봉지매운맛120gX20개입	식품>가공식품>라면>봉지라면	11090	2500	11번가	https://shopping-phinf.pstatic.net/main_9164332/9164332640.jpg
+NS9201918281	MALL	오뚜기 오뚜기 진라면매운맛(멀티팩)120gX40入(1박스)	식품>가공식품>라면>봉지라면	18250	2500	옥션	https://shopping-phinf.pstatic.net/main_9201918/9201918281.jpg
+NS9202013475	MALL	오뚜기 오뚜기 진라면매운맛(멀티팩)120gX40入(1박스)	식품>가공식품>라면>봉지라면	18250	2500	G마켓	https://shopping-phinf.pstatic.net/main_9202013/9202013475.jpg
+NS9202489422	MALL	오뚜기 진라면매운맛(멀티팩)120gX40入(1박스)	식품>가공식품>라면>봉지라면	19430	2500	11번가	https://shopping-phinf.pstatic.net/main_9202489/9202489422.jpg
+NS9234628863	MALL	오뚜기 진라면 순한맛 매운맛 120g x 40봉/스낵면 열라면 참깨라면 오동통면 메밀면 스파게티면	식품>가공식품>라면>봉지라면	17900	0	미스터푸드	https://shopping-phinf.pstatic.net/main_9234628/9234628863.1.jpg
+NS9263318906	MALL	오뚜기 진라면 매운맛 20개입 박스	식품>가공식품>라면>봉지라면	10660	2500	스탠다드 스토어	https://shopping-phinf.pstatic.net/main_9263318/9263318906.2.jpg
+NS9265548535	MALL	오뚜기 진라면 매운맛 120g 봉지라면	식품>가공식품>라면>봉지라면	430	2500	11번가	https://shopping-phinf.pstatic.net/main_9265548/9265548535.jpg
+NS9287749581	MALL	오뚜기 진라면 매운맛 5개입 멀티팩 내벗	식품>가공식품>라면>봉지라면	2550	2500	11번가	https://shopping-phinf.pstatic.net/main_9287749/9287749581.1.jpg
+NS9287818192	MALL	오뚜기 진라면 매운맛 5개입 멀티팩 8개입 BOX 내벗	식품>가공식품>라면>봉지라면	19800	0	11번가	https://shopping-phinf.pstatic.net/main_9287818/9287818192.1.jpg
+NS9298458757	MALL	오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3420	2500	예담맘브런치	https://shopping-phinf.pstatic.net/main_9298458/9298458757.1.jpg
+NS9347171092	MALL	(오뚜기) 진라면 매운맛 멀티팩 (120g x 5개) x8팩_총 40봉지	식품>가공식품>라면>봉지라면	28660	0	구판장	https://shopping-phinf.pstatic.net/main_9347171/9347171092.jpg
+NS9355802831	MALL	오뚜기 진라면매운맛(멀티팩)1박스(120gX40개입)/라면/오뚜기/컵라면/오뚜기라면/봉지라	식품>가공식품>라면>봉지라면	28400	2500	푸짐이	https://shopping-phinf.pstatic.net/main_9355802/9355802831.1.jpg
+NS9358434067	MALL	오뚜기 진라면매운맛(멀티팩)1박스(120gX4	식품>가공식품>라면>봉지라면	25830	2500	G마켓	https://shopping-phinf.pstatic.net/main_9358434/9358434067.jpg
+NS9358443171	MALL	오뚜기 진라면매운맛(멀티팩)1박스(120gX4	식품>가공식품>라면>봉지라면	25830	2500	G마켓	https://shopping-phinf.pstatic.net/main_9358443/9358443171.jpg
+NS9361824220	MALL	오뚜기 진라면매운맛(멀티팩)1박스(120gX40개입)/라면/오뚜기/컵라면/오뚜기라면/봉지라	식품>가공식품>라면>봉지라면	29160	2500	11번가	https://shopping-phinf.pstatic.net/main_9361824/9361824220.jpg
+NS9363959180	MALL	오뚜기 진라면 매운맛 멀티팩 120g X40개(1box)	식품>가공식품>라면>봉지라면	28080	2500	11번가	https://shopping-phinf.pstatic.net/main_9363959/9363959180.jpg
+NS9363993406	MALL	오뚜기 오뚜기 진라면 매운맛 멀티팩 120g X40개(1box)	식품>가공식품>라면>봉지라면	24740	2500	옥션	https://shopping-phinf.pstatic.net/main_9363993/9363993406.jpg
+NS9368368574	MALL	오뚜기 진라면 매운맛 멀티팩 120g X40개(1box)	식품>가공식품>라면>봉지라면	24750	2500	G마켓	https://shopping-phinf.pstatic.net/main_9368368/9368368574.jpg
+NS9410113971	MALL	제3도매 진라면 120gx40봉지(순한맛/매운맛)/간식/	식품>가공식품>라면>봉지라면	16110	2500	11번가	https://shopping-phinf.pstatic.net/main_9410113/9410113971.jpg
+NS9415290146	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스)	식품>가공식품>라면>봉지라면	20610	2500	dajinstore	https://shopping-phinf.pstatic.net/main_9415290/9415290146.1.jpg
+NS9428104078	MALL	오뚜기 진라면 매운맛 멀티팩 120g X40개(1box)	식품>가공식품>라면>봉지라면	27520	0	G마켓	https://shopping-phinf.pstatic.net/main_9428104/9428104078.jpg
+NS9428843170	MALL	(추천)진라면 매운맛 40봉봉지라면,박스라면,멀티팩,라면박스,신라면	식품>가공식품>라면>봉지라면	27000	2500	11번가	https://shopping-phinf.pstatic.net/main_9428843/9428843170.jpg
+NS9432409733	MALL	오뚜기 진라면 매운맛 멀티팩 120g X40개(1box)	식품>가공식품>라면>봉지라면	30850	0	11번가	https://shopping-phinf.pstatic.net/main_9432409/9432409733.jpg
+NS9433306854	MALL	오뚜기 진라면 120g x 40봉 /매운맛 순한맛 /오아시스몰	식품>가공식품>라면>봉지라면	19900	0	옥션	https://shopping-phinf.pstatic.net/main_9433306/9433306854.jpg
+NS9433325801	MALL	오뚜기 진라면 120g x 40봉 /매운맛 순한맛 /오아시스몰	식품>가공식품>라면>봉지라면	19900	0	G마켓	https://shopping-phinf.pstatic.net/main_9433325/9433325801.jpg
+NS9452305814	MALL	오뚜기 진라면 매운맛 120g 40개	식품>가공식품>라면>봉지라면	27900	0	독수리마켓	https://shopping-phinf.pstatic.net/main_9452305/9452305814.1.jpg
+NS9463529711	MALL	농심 안성탕면 125g x 40봉 신라면/진라면/삼양라면	식품>가공식품>라면>봉지라면	20610	0	11번가	https://shopping-phinf.pstatic.net/main_9463529/9463529711.1.jpg
+NS9464369768	MALL	(추천)진라면 매운맛 5봉 1팩봉지라면,박스라면,멀티팩,라면박스,신라면	식품>가공식품>라면>봉지라면	3400	2500	11번가	https://shopping-phinf.pstatic.net/main_9464369/9464369768.jpg
+NS9496264174	MALL	오뚜기 오뚜기 진라면 매운맛 멀티팩 120g X40개(1box)	식품>가공식품>라면>봉지라면	27730	0	옥션	https://shopping-phinf.pstatic.net/main_9496264/9496264174.jpg
+NS9563196666	MALL	오뚜기 진라면 120gx40봉지(순한맛/매운맛)	식품>가공식품>라면>봉지라면	22200	0	옥션	https://shopping-phinf.pstatic.net/main_9563196/9563196666.jpg
+NS9563214892	MALL	진라면 120gx40봉지(순한맛/매운맛)	식품>가공식품>라면>봉지라면	22200	0	G마켓	https://shopping-phinf.pstatic.net/main_9563214/9563214892.jpg
+NS9564234924	MALL	진라면 오뚜기 진라면 매운맛 멀티팩(5입)	식품>가공식품>라면>봉지라면	3600	2500	G마켓	https://shopping-phinf.pstatic.net/main_9564234/9564234924.jpg
+NS9587004904	MALL	오뚜기_진라면매운맛_120G 5입	식품>가공식품>라면>봉지라면	2700	2500	커피천지	https://shopping-phinf.pstatic.net/main_9587004/9587004904.1.jpg
+NS9627572249	MALL	오뚜기 진라면 플러스 순한맛 120g x 30개/매운맛/코스트코	식품>가공식품>라면>봉지라면	14990	2500	올셀몰	https://shopping-phinf.pstatic.net/main_9627572/9627572249.1.jpg
+NS9655498285	MALL	오뚜기 [오뚜기] 진라면 매운맛 멀티팩 (120g x 5개)x8팩 / 총40봉지	식품>가공식품>라면>봉지라면	23160	0	롯데아이몰	https://shopping-phinf.pstatic.net/main_9655498/9655498285.2.jpg
+NS9662901643	MALL	진라면 120g*40봉지(순한맛/매운맛)	식품>가공식품>라면>봉지라면	19980	0	11번가	https://shopping-phinf.pstatic.net/main_9662901/9662901643.jpg
+NS9673073557	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개) x8팩 / 총 40봉지	식품>가공식품>라면>봉지라면	25300	0	11번가	https://shopping-phinf.pstatic.net/main_9673073/9673073557.1.jpg
+NS9712789577	MALL	[오뚜기] 진라면(매운맛) 40개 / 한박스	식품>가공식품>라면>봉지라면	19710	2500	11번가	https://shopping-phinf.pstatic.net/main_9712789/9712789577.1.jpg
+NS9716089011	MALL	오뚜기 진라면 매운맛 120G	식품>가공식품>라면>봉지라면	630	2000	GSfresh	https://shopping-phinf.pstatic.net/main_9716089/9716089011.jpg
+NS9716089017	MALL	진라면 매운맛 묶음 120G*5개입	식품>가공식품>라면>봉지라면	2750	2000	GSfresh	https://shopping-phinf.pstatic.net/main_9716089/9716089017.jpg
+NS9729511897	MALL	진라면 매운맛.순한맛 120gx40봉지	식품>가공식품>라면>봉지라면	21530	0	쭝쭝마켓JJMK	https://shopping-phinf.pstatic.net/main_9729511/9729511897.1.jpg
+NS9745671001	MALL	오뚜기 진라면 매운맛 40봉1박스/최근제조	식품>가공식품>라면>봉지라면	18500	2500	오뚜기몰	https://shopping-phinf.pstatic.net/main_9745671/9745671001.1.jpg
+NS9765957883	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개) x8팩 / 총 40봉지	식품>가공식품>라면>봉지라면	24520	0	11번가	https://shopping-phinf.pstatic.net/main_9765957/9765957883.3.jpg
+NS9766012274	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개) x8팩 / 총 40봉지	식품>가공식품>라면>봉지라면	25280	0	AK MALL	https://shopping-phinf.pstatic.net/main_9766012/9766012274.1.jpg
+NS9767922933	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개) x8팩 / 총 40봉지	식품>가공식품>라면>봉지라면	25290	0	AK몰	https://shopping-phinf.pstatic.net/main_9767922/9767922933.jpg
+NS9794219157	MALL	[오뚜기] 진라면(매운맛) 40봉	식품>가공식품>라면>봉지라면	21810	0	11번가	https://shopping-phinf.pstatic.net/main_9794219/9794219157.jpg
+NS9833824922	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스) 라면 오뚜기 컵라면 오뚜기라면 봉지라면	식품>가공식품>라면>봉지라면	27940	2800	이지쇼핑몰	https://shopping-phinf.pstatic.net/main_9833824/9833824922.jpg
+NS9833834539	MALL	오뚜기 진라면매운맛(멀티팩)120gX40개입(1박스) 라면 오뚜기 컵라면 오뚜기라면 봉지라면	식품>가공식품>라면>봉지라면	30850	0	우주쇼핑	https://shopping-phinf.pstatic.net/main_9833834/9833834539.jpg
+NS9855267282	MALL	(오뚜기) 진라면 매운맛 멀티팩 (120g x 5개) x8팩_총 40봉지 오뚜기 진라면 매운맛 봉지라면 멀티팩	식품>가공식품>라면>봉지라면	32210	0	우주쇼핑	https://shopping-phinf.pstatic.net/main_9855267/9855267282.jpg
+NS9855271917	MALL	(오뚜기) 진라면 매운맛 멀티팩 (120g x 5개) x8팩_총 40봉지 오뚜기 진라면 매운맛 봉지라면 멀티팩	식품>가공식품>라면>봉지라면	29780	2800	이지쇼핑몰	https://shopping-phinf.pstatic.net/main_9855271/9855271917.jpg
+NS9867787562	MALL	[가공식품] 진라면 매운맛 120g*10개 + 팔도비빔면 130g*10개_즉석/조리/한끼/식사	식품>가공식품>라면>봉지라면	12320	0	위메프	https://shopping-phinf.pstatic.net/main_9867787/9867787562.jpg
+NS9867787565	MALL	[가공식품] 올리브 짜파게티 140g*10개 + 진라면 매운맛 120g*10개_즉석/조리/한끼/식사	식품>가공식품>라면>봉지라면	12330	0	위메프	https://shopping-phinf.pstatic.net/main_9867787/9867787565.jpg
+NS9885923399	MALL	[오뚜기] 스낵면 108g*20개+진라면 매운맛 120g*20개	식품>가공식품>라면>봉지라면	17600	0	위메프	https://shopping-phinf.pstatic.net/main_9885923/9885923399.jpg
+NS9885923418	MALL	오뚜기 진라면(매운맛120*20+순한맛120g*20) _봉지/가공식품	식품>가공식품>라면>봉지라면	18600	0	위메프	https://shopping-phinf.pstatic.net/main_9885923/9885923418.jpg
+NS9885923438	MALL	[오뚜기] 김치라면 120g*20개+진라면 매운맛 120g*20개	식품>가공식품>라면>봉지라면	18750	0	위메프	https://shopping-phinf.pstatic.net/main_9885923/9885923438.jpg
+NS9885923470	MALL	[식품라면] 진라면 매운맛 120g*20개+쫄비빔면 130g*20개	식품>가공식품>라면>봉지라면	23700	0	위메프	https://shopping-phinf.pstatic.net/main_9885923/9885923470.jpg
+NS9970450166	MALL	B/오뚜기 업소용 진라면매운맛 120g -30개입/라면/진라면	식품>가공식품>라면>봉지라면	19720	0	할인닷컴	https://shopping-phinf.pstatic.net/main_9970450/9970450166.1.jpg
+NS9970450405	MALL	B/오뚜기 진라면 매운맛 120g -30개/봉지라면	식품>가공식품>라면>봉지라면	25150	0	할인닷컴	https://shopping-phinf.pstatic.net/main_9970450/9970450405.1.jpg
+NS9970506107	MALL	오뚜기 B/오뚜기 업소용 진라면매운맛 120g -30개입/라면/진	식품>가공식품>라면>봉지라면	19720	0	옥션	https://shopping-phinf.pstatic.net/main_9970506/9970506107.jpg
+NS9970510481	MALL	오뚜기 B/오뚜기 진라면 매운맛 120g -30개/봉지라면	식품>가공식품>라면>봉지라면	25150	2500	옥션	https://shopping-phinf.pstatic.net/main_9970510/9970510481.jpg
+NS9970521100	MALL	오뚜기 B/오뚜기 진라면 매운맛 120g -30개/봉지라면	식품>가공식품>라면>봉지라면	25150	0	G마켓	https://shopping-phinf.pstatic.net/main_9970521/9970521100.jpg
+NS9970524925	MALL	오뚜기 B/오뚜기 업소용 진라면매운맛 120g -30개입/라면/진	식품>가공식품>라면>봉지라면	19720	0	G마켓	https://shopping-phinf.pstatic.net/main_9970524/9970524925.jpg
+NS9970528839	MALL	오뚜기 B/오뚜기 업소용 진라면매운맛 120g -30개입/라면/진	식품>가공식품>라면>봉지라면	19720	0	G마켓	https://shopping-phinf.pstatic.net/main_9970528/9970528839.jpg
+NS9970528852	MALL	오뚜기 B/오뚜기 업소용 진라면매운맛 120g -30개입/라면/진	식품>가공식품>라면>봉지라면	16360	0	G마켓	https://shopping-phinf.pstatic.net/main_9970528/9970528852.jpg
+NS9970530793	MALL	오뚜기 B/오뚜기 진라면 매운맛 120g -30개/봉지라면	식품>가공식품>라면>봉지라면	23720	0	G마켓	https://shopping-phinf.pstatic.net/main_9970530/9970530793.jpg
+NS9970531816	MALL	오뚜기 B/오뚜기 진라면 매운맛 120g -30개/봉지라면	식품>가공식품>라면>봉지라면	25150	0	G마켓	https://shopping-phinf.pstatic.net/main_9970531/9970531816.jpg
+NS9973908274	MALL	B/오뚜기 업소용 진라면매운맛 120g -30개입/라면/진라면	식품>가공식품>라면>봉지라면	19910	2500	NH마켓	https://shopping-phinf.pstatic.net/main_9973908/9973908274.jpg
+NS9973908294	MALL	B/오뚜기 진라면 매운맛 120g -30개/봉지라면	식품>가공식품>라면>봉지라면	25390	2500	NH마켓	https://shopping-phinf.pstatic.net/main_9973908/9973908294.jpg
+NS9985527861	MALL	B/오뚜기 진라면매운맛 120g -40개/봉지라면	식품>가공식품>라면>봉지라면	31990	0	할인닷컴	https://shopping-phinf.pstatic.net/main_9985527/9985527861.1.jpg
+NS9985733127	MALL	오뚜기 B/오뚜기 진라면매운맛 120g -40개/봉지라면	식품>가공식품>라면>봉지라면	31990	0	G마켓	https://shopping-phinf.pstatic.net/main_9985733/9985733127.jpg
+NS9985739050	MALL	오뚜기 B/오뚜기 진라면매운맛 120g -40개/봉지라면	식품>가공식품>라면>봉지라면	28660	0	G마켓	https://shopping-phinf.pstatic.net/main_9985739/9985739050.jpg
+NS9990234822	MALL	[오뚜기] 진라면 매운맛 멀티팩 (120g x 5개) x8팩 / 총 40봉지	식품>가공식품>라면>봉지라면	24900	0	홈앤쇼핑	https://shopping-phinf.pstatic.net/main_9990234/9990234822.jpg
+NS9991101249	MALL	B/오뚜기 진라면매운맛 120g -40개/봉지라면	식품>가공식품>라면>봉지라면	32210	2500	NH마켓	https://shopping-phinf.pstatic.net/main_9991101/9991101249.jpg

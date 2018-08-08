@@ -164,6 +164,9 @@ def run_mode_auto_sync(page = None, total = None):
 
 #---------------------------------------------
 # mode: sync-deep - call `sync-list` in deep until eof
+# - mid내 모든 상품 목록에 대해서 `sync-pull` 실행함 (이미지 정보 가져올때 유용)
+#
+# $ py main.py -m sync-deep -i 6359445024
 def run_mode_sync_list_deep(item_id, page = 1, total = 0, detail = False):
     from tools import pools
     _log('run_mode_sync_list_deep(%s, %d/%d)...'%(item_id, page, total))
