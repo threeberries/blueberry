@@ -19,7 +19,7 @@ def main(param = None):
     parser = argparse.ArgumentParser()
     # running arguments...
     parser.add_argument('-m', '--mode', help='run mode (실행 모드)', default='')
-    parser.add_argument('-i', '--item', help='item id (분석할 상품 MID)', default='5640996976')  # 진라면 순한맛
+    parser.add_argument('-i', '--item', help='item id (분석할 상품 MID)', default='5640996976')  # 5640996976 (진라면 순한맛)
     parser.add_argument('-p', '--page', help='page (시작할 페이지 번호)', type=int, default=1)
     args = vars(parser.parse_args())
     
@@ -38,13 +38,15 @@ def main(param = None):
 
     # decode mode.
     ret = None
-    if mode == 'pools':
+    if mode == 'pools':                             # pools 자체 테스트 실행!.
         ret = run_mode_pools()
-    elif mode == 'down-mid':
-        ret = run_mode_down_mid()
-    elif mode == 'auto-sync':
+    elif mode == 'down-mid':                        # mid의 정보를 다운 받아, tsv 파일에 저장. 
+        ret = run_mode_down_mid(item)
+    elif mode == 'sync-list':                       # mid에 등록된 상품 목록을 봇을 통해서 가져옴.
+        ret = run_mode_sync_list(item)
+    elif mode == 'auto-sync':                       # ITEM으로 검색해서, 각각 `sync-list`를 실행시킴. (by page) 
         ret = run_mode_auto_sync(page)
-    elif mode == 'sync-deep':
+    elif mode == 'sync-deep':                       # 해당 mid에 대해서, `sync-pull` 호출 함. (이미지 가져올때 필요함)
         if len(items) <= 1:
             ret = run_mode_sync_list_deep(item, page, detail=True)
         else:
@@ -59,6 +61,7 @@ def main(param = None):
 
 #---------------------------------------------
 # mode: pools - test pools API
+# $ # $ py main.py -m pools
 def run_mode_pools():
     from tools import pools
     pools.test()
@@ -67,25 +70,59 @@ def run_mode_pools():
 
 #---------------------------------------------
 # mode: down-mid - download
-def run_mode_down_mid(mid = 'NS5640996976'):
+# - 음.. 일단, 각 mid에 등록된 모든 상품 목록을 tsv 파일에 가지련히 저장해 둬 본다.
+# - 주의! 각 상품 이미지는 `sync-deep` 실행해야 생김.
+# 
+# $ py main.py -m down-mid -i 5640996976                # 오뚜기 진라면 순한맛 120g
+def run_mode_down_mid(mid = '5640996976'):
     _inf('run_mode_down_mid(%s)...'%(mid))
     from tools import pools, tsv
-    HEADERS = ['id','name','cat','price','delivery','mall','img']
+    HEADERS = ['id','type','name','cat','price','delivery','mall','image']
     item = pools.describe_item(mid)
     # print('> item=', item)
 
     lines = []
     lines.append(HEADERS)
-    lines.append([item.get(k, '') for k in HEADERS])
+    lines.append([item.get(k if k != 'name' else 'ns_name', '') for k in HEADERS])
     # lines.append([(lambda k: item[k] if k in item else '')(k) for k in HEADERS])
+
+    # 해당 되는 모든 정보를 lines에 일단 저장.
+    for page in range(1, 300):       
+        thiz = pools.get_items(page = page, mid = mid)
+        list = thiz['list'] if 'list' in thiz else []
+        size = len(list)
+        _log('> [%d].size='%(page), size)
+        if (size <= 0): break
+        for item in list:
+            lines.append([item.get(k, '') for k in HEADERS])
+
+    # save into files.
     tsv.save_list_to_tsv(mid, lines)
 
-    # load back.
-    lines = tsv.load_list_from_tsv(mid)
-    pprint.pprint(lines)
+    # # load back.
+    # lines = tsv.load_list_from_tsv(mid)
+    # pprint.pprint(lines)
 
     # eof - run_mode_down_mid
     return 0
+
+
+#---------------------------------------------
+# mode: sync-list - call `sync-list` by page.
+# $ py main.py -m sync-list -i 5640996976
+def run_mode_sync_list(item_id, page = None, total = None):
+    page = 1 if page == None else page
+    total = 0 if total == None else total
+    _log('run_mode_sync_list(%s, %d/%d)...'%(item_id, page, total))
+    from tools import pools
+    thiz = pools.sync_list_item(item_id, page)
+    # page = thiz['page']
+    list = thiz['list'] if 'list' in thiz else []
+    size = len(list)
+    _log('> page=%d, size=%d'%(page, size))
+    total += size
+    #! return
+    return {"total": total, "page": thiz['page'], "size": size, "list": list}
 
 #---------------------------------------------
 # mode: auto-sync - list items, then populate
@@ -124,22 +161,6 @@ def run_mode_auto_sync(page = None, total = None):
     #! return total count.
     return {"total": total, "page": thiz['page']}
 
-
-#---------------------------------------------
-# mode: sync-list - call `sync-list` by page.
-def run_mode_sync_list(item_id, page = None, total = None):
-    page = 1 if page == None else page
-    total = 0 if total == None else total
-    _log('run_mode_sync_list(%s, %d/%d)...'%(item_id, page, total))
-    from tools import pools
-    thiz = pools.sync_list_item(item_id, page)
-    # page = thiz['page']
-    list = thiz['list'] if 'list' in thiz else []
-    size = len(list)
-    _log('> page=%d, size=%d'%(page, size))
-    total += size
-    #! return
-    return {"total": total, "page": thiz['page'], "size": size, "list": list}
 
 #---------------------------------------------
 # mode: sync-deep - call `sync-list` in deep until eof
