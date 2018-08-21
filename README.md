@@ -23,5 +23,16 @@ $ py main.py
 $ python -V
 
     Python 3.6.5 :: Anaconda, Inc.
-    
+
+# upgrade pip (v 18.0)
+$ pip install --upgrade pip
+```
+
+#### Additional Modules
+
+- 기본 설치후, 추가로 필요한 모듈 설치하기.
+
+```bash
+# install OpenCV
+$ conda install -c menpo opencv3
 ```

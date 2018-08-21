@@ -42,6 +42,8 @@ def main(param = None):
         ret = run_mode_pools()
     elif mode == 'down-mid':                        # mid의 정보를 다운 받아, tsv 파일에 저장. 
         ret = run_mode_down_mid(item)
+    elif mode == 'norm-mid':                        # mid의 tsv 파일을 읽어 들인다.
+        ret = run_mode_norm_mid(item)
     elif mode == 'sync-list':                       # mid에 등록된 상품 목록을 봇을 통해서 가져옴.
         ret = run_mode_sync_list(item)
     elif mode == 'auto-sync':                       # ITEM으로 검색해서, 각각 `sync-list`를 실행시킴. (by page) 
@@ -105,6 +107,54 @@ def run_mode_down_mid(mid = '5640996976'):
 
     # eof - run_mode_down_mid
     return 0
+
+#---------------------------------------------
+# mode: `norm-mid` - normalize
+# 
+# $ py main.py -m norm-mid -i 5640996976                # 오뚜기 진라면 순한맛 120g
+def run_mode_norm_mid(mid = '5640996976'):
+    _inf('run_mode_norm_mid(%s)...'%(mid))
+    from tools import pools, tsv
+    import os
+    import urllib.request
+    from urllib.parse import urlparse
+
+    import cv2
+    from matplotlib import pyplot as plt
+
+    # load back.
+    lines = tsv.load_list_from_tsv(mid)
+    # pprint.pprint(lines)
+    _log('> headers =', lines[0])
+    _log('> lines.len =', len(lines))
+
+    #! make sure images folder
+    IMAGES_BASE = './data/images/'
+    if not os.path.exists(IMAGES_BASE):
+        _inf('WARN! create images folder')
+        os.makedirs(IMAGES_BASE)
+
+    #TODO - multi-process to download images to data/images like 'id.jpg'
+    line = lines[1]
+    iid = line[0]
+    imgsrc = line[7]
+    imgext = urlparse(imgsrc).path.split('.')[-1]
+    filename = IMAGES_BASE + iid + '.' + imgext
+    _log('>> iid=', iid, ', img=', imgsrc, ', ext=', imgext)
+    _log('>> filename =', filename)
+    #! download image if not exists.
+    if not os.path.exists(filename):
+        _inf('WARN! not exist. so try download:', imgsrc)
+        urllib.request.urlretrieve(imgsrc, filename)
+    
+    #! load image with OpenCV
+    img = cv2.imread(filename)
+    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)          # OpenCV use BGR internally.
+    _log('> img.shape =', img.shape)
+    plt.subplot(121),plt.imshow(img),plt.title('image')
+    plt.show()
+
+    return 1
 
 
 #---------------------------------------------
